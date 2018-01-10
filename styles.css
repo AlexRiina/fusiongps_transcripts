@@ -33,6 +33,10 @@ hr:after {
         background-color: #fcfcfa;
 }
 
+section {
+        margin-bottom: 2em;
+}
+
 bubble {
         margin-left: 10%;
         width: 90%;
