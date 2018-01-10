@@ -2,30 +2,28 @@
       MS. SAWYER:  We'll go back on the record.  
 It's 1:55.  
                     EXAMINATION
-BY MS. SAWYER:
-      Q. I'm going to return you back to discussing 
+      Ms. Sawyer: I'm going to return you back to discussing 
 the work at Fusion that Christopher Steele had done 
 during the Presidential election of 2016.  It has 
 been widely reported and Mr. Steele has 
 acknowledged that he created 16 memos before the 
 election between the time period of June of 2016 
 and October of 2016.  Is that accurate?
-      A. To the best of my knowledge, that's 
+      Mr. Simpson: To the best of my knowledge, that's 
 accurate.  
-      Q. And then he also has acknowledged -- 
+      Ms. Sawyer: And then he also has acknowledged -- 
 Mr. Steele also has acknowledged and it's been 
 reported that there was one additional memo that 
 came after the election in December of 2016.  Is 
 that also accurate?
-      A. I think what he has said is that -- yeah, 
+      Mr. Simpson: I think what he has said is that -- yeah, 
 that's basically accurate.  What he said was that 
 the series of memos that were published by 
 BuzzFeed, that's the package that you're talking 
 about.  
                    (Exhibit 3 was marked for 
                     identification.)
-BY MS. SAWYER:
-      Q. And so I'm going to show you what we will 
+      Ms. Sawyer: And so I'm going to show you what we will 
 just mark as Exhibit 3 for identification purposes.  
 So Exhibit 3 that I've just given you is a document 
 that was produced to the committee by your lawyers, 
@@ -37,27 +35,27 @@ CLMS-JC-00041391 and then the last one is number
 41425.  If you could just take a look at that.  Is 
 that what we were just discussing as the series of 
 memos posted by BuzzFeed and created by Mr. Steele?
-      A. Yes, it is.  
-      Q. Can you explain for us just what -- does 
+      Mr. Simpson: Yes, it is.  
+      Ms. Sawyer: Can you explain for us just what -- does 
 this represent the 16 memos that would have 
 occurred between June and October of 2016 that 
 Mr. Steele created?
-      A. These are the memos that he created under 
+      Mr. Simpson: These are the memos that he created under 
 the engagement and then this extra one that is 
 appended.  I never actually numbered -- totaled 
 them up, but these are the ones I'm familiar 
 with.  
-      Q. And does this represent the entire 
+      Ms. Sawyer: And does this represent the entire 
 universe of memos that Mr. Steele created as part 
 of this particular engagement for you?
-      A. To the best of the my knowledge as part of 
+      Mr. Simpson: To the best of the my knowledge as part of 
 this engagement, this is it.  
-      Q. And can you just explain to us so that we 
+      Ms. Sawyer: And can you just explain to us so that we 
 understand the document, it has a heading "Company 
 Intelligence Report."  I'm just looking at the 
 first page.  That one says "Company Intelligence 
 Report 2016/080."  What would that have signified?
-      A. Company Intelligence Report is just a way 
+      Mr. Simpson: Company Intelligence Report is just a way 
 of saying it's not a government document.  In the 
 event that, you know, someone stole it or it leaked 
 or there was some sort of breach, you know, they're 
@@ -73,47 +71,46 @@ an internal numbering system for maybe Russia stuff
 or maybe it's just -- I'm sorry.  I don't know what 
 the internal numbering system is, but there isn't 
 five memos in this project between these two.  
-      Q. So the company referenced in Company 
+      Ms. Sawyer: So the company referenced in Company 
 Intelligence Report, your understanding is that 
 would be Orbis, not Fusion GPS?
-      A. I can't answer that.  I think it's, as I 
+      Mr. Simpson: I can't answer that.  I think it's, as I 
 said, meant to denote that it's not a government 
 report.  
-      Q. Were they producing -- as you noted, the 
+      Ms. Sawyer: Were they producing -- as you noted, the 
 next apparent report 086 would be five, presumably, 
 reports later.  Were those other five reports 
 reports that were being generated for Fusion GPS 
 or --
-      A. No.  
+      Mr. Simpson: No.  
       MR. LEVY:  I don't think he said that.  Go 
 ahead.
-BY THE WITNESS:
-      A. I mean, there aren't five reports that he 
+      Mr. Simpson: I mean, there aren't five reports that he 
 did for us between these two.  This is the first 
 and second.  
-      Q. So, again, when we look at that first one 
+      Ms. Sawyer: So, again, when we look at that first one 
 that we discussed briefly, 2016/080, it appears to 
 be a three-page memorandum and it's dated 20 June 
 2016 and that shows up on the last page.  Would you 
 have received it around that time that it's dated, 
 June 20, 2016?
-      A. Within a couple days, yeah.  Yes.  
-      Q. And not every single discrete memo has a 
+      Mr. Simpson: Within a couple days, yeah.  Yes.  
+      Ms. Sawyer: And not every single discrete memo has a 
 date, but a number of them do.  To the extent they 
 had dates, would you have been receiving them 
 around the time they were dated?
-      A. Yeah.  I believe so, yes.  There might be 
+      Mr. Simpson: Yeah.  I believe so, yes.  There might be 
 some lag, transition lag.  
-      Q. And what was -- what use did you make of 
+      Ms. Sawyer: And what was -- what use did you make of 
 these memos?
-      A. These memos -- I mean, I guess I'd like to 
+      Mr. Simpson: These memos -- I mean, I guess I'd like to 
 back up a little bit and explain, you know, what 
 led to the memos, which was -- as I said, I mean, 
 you know, we started looking at -- first we started 
 looking at Trump's business affairs generally with 
 some of the emphasis on associations with organized 
 crime and in particular Russian organized crime.  
-As the project progressed towards the end of 2015 
+Mr. Simpson: the project progressed towards the end of 2015 
 and into 2016 we became interested in his overseas 
 business dealings particularly because they were so 
 opaque and seemed to involve, you know, to say the 
@@ -130,7 +127,7 @@ Union, Georgia, Azerbaijan, both former Soviet
 republics.  So over the course of the spring I'd 
 say -- and Russia -- we gradually began to exhaust 
 the public record, the open source about these 
-topics in various places.  As you, you know, sort 
+topics in various places.  Mr. Simpson: you, you know, sort 
 of run short on public record or open source 
 information, you know, you need to get -- if you 
 still want to go deeper you need to get human 
@@ -176,19 +173,19 @@ obviously, as we talked about earlier, we tried to
 analyze this to see if it was credible.  You know, 
 I did -- you know, in the initial round of this 
 that was the big question, was this credible.  
-      Q. Okay.  So let me stop you there for a 
+      Ms. Sawyer: Okay.  So let me stop you there for a 
 second before we get too far because you've 
 referred a number of times to "this" and you have a 
 35-page document in front of you.  So I want to 
 clarify when you said "this," in the context of 
 answering that I assumed you were talking about the 
 first --
-      A. The first memo.  
-      Q. That's the report 2016/080?
-      A. Correct.  
-      Q. And that's the one that has the date of 20 
+      Mr. Simpson: The first memo.  
+      Ms. Sawyer: That's the report 2016/080?
+      Mr. Simpson: Correct.  
+      Ms. Sawyer: And that's the one that has the date of 20 
 June 2016?  
-      A. Correct.  To be totally clear, you know, 
+      Mr. Simpson: Correct.  To be totally clear, you know, 
 what people call the dossier is not really a 
 dossier.  It's a collection of field memoranda, of 
 field interviews, a collection that accumulates 
@@ -207,8 +204,7 @@ Bates Nos. 49391 to 41393.  Do we need to go off
 the record for a moment?  Let's go off the record 
 for a moment.  
                    (A short break was had.)
-BY MS. SAWYER:
-      Q. With regard to this document, you 
+      Ms. Sawyer: With regard to this document, you 
 characterized this document as representing field 
 interviews, I think you talked about it as human 
 source information.  So was Mr. Steele's kind of 
@@ -216,11 +212,10 @@ role with regard to the project primarily
 conducting these types of interviews, gathering 
 this type of what I think you referred to as human 
 intelligence for Fusion?
-      A. Yes.  I mean, in other cases we did other 
+      Mr. Simpson: Yes.  I mean, in other cases we did other 
 things.  
       MR. LEVY:  Don't get into other cases.  
-BY THE WITNESS:
-      A. I can't remember specifically what I had 
+      Mr. Simpson: I can't remember specifically what I had 
 in mind to get from him.  This form of reporting 
 was, in fact, the form that the rest of the project 
 took, which was, you know -- I've done other kinds 
@@ -241,11 +236,11 @@ asked him to begin collecting information on this.
 My expectation was of something a lot less 
 interesting than this, more along the lines of a 
 typical corruption investigation.  
-      Q. You had indicated that when you received 
+      Ms. Sawyer: You had indicated that when you received 
 it you found it unusual, it was sensitive 
 information.  Did you take steps to verify any of 
 the information?
-      A. We assessed it for credibility, whether it 
+      Mr. Simpson: We assessed it for credibility, whether it 
 was credible.  The question of the credibility of 
 the information is obviously a big question here, 
 can this be believed.  There's other secondary 
@@ -323,7 +318,7 @@ western capitals and the new twist on it which
 seemed to be that these guys seemed to be getting 
 involved in politics in ways that they hadn't 
 previously.  So I knew all that when I read this.  
-      Q. Okay.  So if I can stop you there.  It 
+      Ms. Sawyer: Okay.  So if I can stop you there.  It 
 sounds like the components -- you can tell me if 
 there were more -- that you considered in assessing 
 the credibility of this was Mr. Steele, his 
@@ -332,7 +327,7 @@ you had information and knowledge of Russia
 meddling in other countries' elections, and then 
 the broader work of Russia to disrupt political 
 systems of other countries?
-      A. I covered that.  I also would add that the 
+      Mr. Simpson: I covered that.  I also would add that the 
 China case was for me in my journalistic career a 
 formative event that took -- you know, consumed 
 years of my reporting and was about, you know, a 
@@ -355,11 +350,11 @@ involving Paul Manafort, John McCain.  So all of
 that was in my head when this came in which, as I 
 say, tended to support the credibility -- the 
 possibility that this information was credible.  
-      Q. You mentioned a Russian oligarch who had 
+      Ms. Sawyer: You mentioned a Russian oligarch who had 
 met with Senator McCain.  Who specifically was 
 that?  
-      A. Oleg Deripaska, O-L-E-G, 
-D-E-R-I-P-A-S-K-A.  He's not able to travel to the 
+      Mr. Simpson: Oleg Deripaska, O-L-E-G, 
+D-E-R-I-P-A-S-K-Mr. Simpson:  He's not able to travel to the 
 United States because he's banned for suspicion of 
 ties to organized crime.  He's extremely close to 
 the Kremlin, or at least he was, and is -- I broke 
@@ -368,11 +363,11 @@ States which caused him a lot of embarrassment and
 trouble with his business and led to him hiring a 
 lobbyist and trying to get involved with getting a 
 visa to the U.S.
-      Q. And you had also mentioned your background 
+      Ms. Sawyer: And you had also mentioned your background 
 knowledge of Paul Manafort and his involvement with 
 Russian oligarchs.  Can you identify who those 
 individuals were and the basis of that knowledge?
-      A. The issue I specifically wrote about I 
+      Mr. Simpson: The issue I specifically wrote about I 
 believe was his work for the Party of Regions and 
 Victor Yanukovych, Y-A-N-U-K-O-V-Y-C-H, I think, 
 and that's the Pro-Russia party or was the 
@@ -380,31 +375,29 @@ Pro-Russia party in Ukraine, and all that work sort
 of grew out of work I had done about the Kremlin 
 working with the Russian mafia to siphon money off 
 the gas trade between Russia and Ukraine.  
-      Q. Was that work you had done while still a 
+      Ms. Sawyer: Was that work you had done while still a 
 reporter with the Wall Street Journal?
-      A. Yes.  
-      Q. So any conclusions you had reached from 
+      Mr. Simpson: Yes.  
+      Ms. Sawyer: So any conclusions you had reached from 
 that, would that be material that we would be able 
 to obtain and may already have in your public 
 reporting?  
       MR. LEVY:  We'd have to talk to the Wall 
 Street Journal about that probably.  
-BY THE WITNESS:
-      A. My articles about this are available on 
+      Mr. Simpson: My articles about this are available on 
 the Internet.  
       MR. LEVY:  Some of them we've produced to you 
 already because it was responsive to your request.  
       MS. SAWYER:  Understood.  
-BY MS. SAWYER:
-      Q. And there's potentially additional work 
+      Ms. Sawyer: And there's potentially additional work 
 product related to the work that you had done on 
 Mr. Manafort?
-      A. For the Wall Street Journal or later?  
-      Q. Let's start with the Wall Street 
+      Mr. Simpson: For the Wall Street Journal or later?  
+      Ms. Sawyer: Let's start with the Wall Street 
 Journal?  
-      A. I collected lots of information on 
+      Mr. Simpson: I collected lots of information on 
 Mr. Manafort during my years at the Journal.  
-      Q. And then we'll get into the work on 
+      Ms. Sawyer: And then we'll get into the work on 
 Mr. Manafort more recently.  
       So this particular memo that we've been 
 talking about, this first one doesn't specifically 
@@ -414,12 +407,12 @@ potential -- as it's called in here, a dossier of
 compromising material on Hillary Clinton.  Did you 
 take any steps to verify whether that dossier of 
 compromising material existed on Hillary Clinton?
-      A. I will answer that, but can I just back 
+      Mr. Simpson: I will answer that, but can I just back 
 you up a little bit.  I think your observation it 
 doesn't mention anything about interfering I 
 wouldn't agree with.  
-      Q. Okay.  
-      A. I mean, one of the key lines here in the 
+      Ms. Sawyer: Okay.  
+      Mr. Simpson: I mean, one of the key lines here in the 
 second paragraph says "However, he and his inner 
 circle have accepted a regular flow of intelligence 
 from the Kremlin, including on his democratic and 
@@ -435,23 +428,23 @@ government's interfering.  I mean, you know, I
 think that also -- of course, in retrospect we now 
 know this was pretty right on target in terms on 
 what it says.  So anyway --
-      Q. In reference to you think that particular 
+      Ms. Sawyer: In reference to you think that particular 
 sentence?
-      A. I mean, it clearly refers to, you know, 
+      Mr. Simpson: I mean, it clearly refers to, you know, 
 them being interested in and willing to -- it 
 depicts them as accepting information.  What we 
 have seen to date with the disclosures this year is 
 they were at a minimum super interested in getting 
 information.  
-      Q. And when you're referencing the 
+      Ms. Sawyer: And when you're referencing the 
 "disclosures this year," could you just be specific 
 about that.
-      A. The Trump Tower meeting.  
-      Q. So with reference to the June 9th Trump 
+      Mr. Simpson: The Trump Tower meeting.  
+      Ms. Sawyer: So with reference to the June 9th Trump 
 Tower meeting?
-      A. Yes.  Yes.  
-      Q. Okay.  
-      A. I will go back to your question, but, 
+      Mr. Simpson: Yes.  Yes.  
+      Ms. Sawyer: Okay.  
+      Mr. Simpson: I will go back to your question, but, 
 again, it says "Source B asserted the Trump 
 operating was both supported and directed by Putin 
 aimed to sew discord within the U.S.," and, you 
@@ -459,7 +452,7 @@ know, basically -- you know, there's a number of
 different ways that it seems they're trying to 
 intervene in our politics in this memo.  
       What was your question?  
-      Q. I appreciate that clarification.  You were 
+      Ms. Sawyer: I appreciate that clarification.  You were 
 actually clarifying a statement I made, which I 
 appreciate.  
       So you had testified a little earlier that at 
@@ -468,15 +461,15 @@ memo you used it a little more as background to
 inform your thinking on it, but you didn't take 
 discrete steps.  Had you -- were you involved in 
 editing this memo in any way?
-      A. No.  
-      Q. Did you give Mr. Steele any specific 
+      Mr. Simpson: No.  
+      Ms. Sawyer: Did you give Mr. Steele any specific 
 direction on, you know, next steps based on this 
 memo?
-      A. Not that I can recall, no.  
-      Q. So at this point in time was he still 
+      Mr. Simpson: Not that I can recall, no.  
+      Ms. Sawyer: So at this point in time was he still 
 operating with the understanding that he was just 
 to engage in an open-ended research project?
-      A. Actually it wasn't really an open-ended 
+      Mr. Simpson: Actually it wasn't really an open-ended 
 research project -- well, it was open-ended in 
 scope, it wasn't open-ended in time.  It was take a 
 few weeks, see if there's anything there that's 
@@ -484,27 +477,26 @@ interesting, notable, important, and if we think
 there's reason to go on we'll make that decision at 
 that time.  So it was a short-term engagement in 
 the beginning.  
-      Q. And to the best you can explain to us, did 
+      Ms. Sawyer: And to the best you can explain to us, did 
 the client that you were working for know that he 
 was engaged in this particular research or what his 
 findings were at that point in time?  
       MR. LEVY:  The answer to that question might 
 implicate privilege or obligations.  
-BY MS. SAWYER:
-      Q. Did you interfere in any way with 
+      Ms. Sawyer: Did you interfere in any way with 
 Mr. Steele's research, tell him not to pursue any 
 particular avenues?
-      A. No.  
-      Q. To the best of your knowledge, did anyone 
+      Mr. Simpson: No.  
+      Ms. Sawyer: To the best of your knowledge, did anyone 
 else give him that direction, either directly or 
 through you, and tell him not to --
-      A. No.  
-      Q. If I could just finish.
-      A. I'm sorry.  
-      Q. -- and tell him not to pursue any 
+      Mr. Simpson: No.  
+      Ms. Sawyer: If I could just finish.
+      Mr. Simpson: I'm sorry.  
+      Ms. Sawyer: -- and tell him not to pursue any 
 particular avenues of research?  
-      A. No.  
-      Q. Do you know -- if we could just move on to 
+      Mr. Simpson: No.  
+      Ms. Sawyer: Do you know -- if we could just move on to 
 kind of the next memo, which begins with Bates 
 No. 41394 and it ends with 41396.  It appears to 
 be -- it's three pages and it has a date of 26 July 
@@ -512,11 +504,11 @@ be -- it's three pages and it has a date of 26 July
 2016/086."  To the best of your recollection, was 
 this the second memo you had received from 
 Mr. Steele?
-      A. To the best of my recollection, this is 
+      Mr. Simpson: To the best of my recollection, this is 
 the second memo.  
-      Q. And how did you kind of use this 
+      Ms. Sawyer: And how did you kind of use this 
 information?
-      A. Well, I think the context of external 
+      Mr. Simpson: Well, I think the context of external 
 events is important here.  I believe -- it's my 
 recollection that what prompted this memo was, in 
 fact, the beginning of public reporting on the 
@@ -571,32 +563,32 @@ I'll take care of it.  I said okay.  You know, I
 agreed, it's potentially a crime in progress.  So, 
 you know, if we can do that in the most appropriate 
 way, I said it was okay for him to do that.  
-      Q. Okay.  So let me just stop you there and 
+      Ms. Sawyer: Okay.  So let me just stop you there and 
 let's just make sure we get the sequencing 
 accurate.
-      A. Sure.  
-      Q. So after Mr. Steele had found out the 
+      Mr. Simpson: Sure.  
+      Ms. Sawyer: So after Mr. Steele had found out the 
 information that he put in the very first of these 
 memos, the one dated June 20, 2016, he approached 
 you about taking this information to specifically 
 the FBI, the Federal Bureau of Investigation?
-      A. That's my recollection.  
-      Q. So to the best of your recollection, that 
+      Mr. Simpson: That's my recollection.  
+      Ms. Sawyer: So to the best of your recollection, that 
 request or idea came directly from Mr. Steele, not 
 anyone else?
-      A. That's right.  
-      Q. And who was involved in discussions about 
+      Mr. Simpson: That's right.  
+      Ms. Sawyer: And who was involved in discussions about 
 whether it was appropriate to take either the memo 
 or the information in the memo to the FBI?
-      A. It was Chris and me.  I mean, that's the 
+      Mr. Simpson: It was Chris and me.  I mean, that's the 
 only ones I remember, the two of us.  The only ones 
 I know of.  
-      Q. You said you had asked for some time to 
+      Ms. Sawyer: You said you had asked for some time to 
 think it over.  What in particular did he 
 articulate to you was of significant national 
 security concern to indicate that it should be 
 taken to the FBI?  
-      A. His concern, which is something that 
+      Mr. Simpson: His concern, which is something that 
 counterintelligence people deal with a lot, is 
 whether or not there was blackmail going on, 
 whether a political candidate was being blackmailed 
@@ -616,22 +608,22 @@ disagreed with it.  It was that I didn't feel
 qualified to be the arbitrar of whether this is a 
 national security expert.  He's the pro and I'm the 
 ex-journalist.  
-      Q. In that regard when you say he's a 
+      Ms. Sawyer: In that regard when you say he's a 
 professional and you're not, I take that to mean 
 that he was the intelligence expert?
-      A. He was -- yes, he was the national 
+      Mr. Simpson: He was -- yes, he was the national 
 security guy.  I know a lot about politics, I know 
 a good bit about financial crime, but, you know, my 
 specialty was journalism and his was security.  
-      Q. And with specific regard to the issue of 
+      Ms. Sawyer: And with specific regard to the issue of 
 blackmail, what was the -- what were the facts that 
 he had gathered that made him concerned about the 
 possibility of blackmail and who did he think was 
 going to be blackmailed?
-      A. Well, the facts are -- beyond what's here 
+      Mr. Simpson: Well, the facts are -- beyond what's here 
 I don't have any additional facts.  The alleged 
 incident that's described here is the one that he 
-was referring to.  As I say, I don't have really 
+was referring to.  Mr. Simpson: I say, I don't have really 
 any additional information beyond this except 
 that -- I mean, it's probably in here somewhere 
 actually, but it's well known in intelligence 
@@ -642,28 +634,28 @@ could quote you.  So the problem of kompromat and
 kompromating is just endemic to east-west 
 intelligence work.  So that's what I'm referring 
 to.  That's what he's referring to.  
-      Q. Got it.  So that would be in the summary 
+      Ms. Sawyer: Got it.  So that would be in the summary 
 the kind of third dash point down where it 
 mentions --
-      A. Yes, that's right.  
-      Q. -- that FSB -- what is your understanding 
+      Mr. Simpson: Yes, that's right.  
+      Ms. Sawyer: -- that FSB -- what is your understanding 
 of who or what FSB is?  
-      A. It's a successor to the KGB.  I mean, 
+      Mr. Simpson: It's a successor to the KGB.  I mean, 
 nominally it's the domestic intelligence agency on 
 the domestic side of what was the KGB.  In practice 
 it's sort of the preeminent intelligence organ of 
 the Russian state, government. 
-      Q. And do you recall when you -- when you and 
+      Ms. Sawyer: And do you recall when you -- when you and 
 Mr. Steele decided kind of that he could or should 
 take this to the FBI, approximately the time frame 
 of that?  
-      A. I believe it was sometime around the turn 
+      Mr. Simpson: I believe it was sometime around the turn 
 of the month.  It would have been in late June or 
 at latest early July.  That's my recollection.  
-      Q. And Mr. Steele was the one who was then 
+      Ms. Sawyer: And Mr. Steele was the one who was then 
 responsible for doing the initial outreach to them 
 and making that contact?
-      A. Yes.  Well, I mean, let's be clear, this 
+      Mr. Simpson: Yes.  Well, I mean, let's be clear, this 
 was not considered by me to be part of the work 
 that we were doing.  This was -- to me this was 
 like, you know, you're driving to work and you see 
@@ -676,20 +668,20 @@ in a lot of countries you must report that.  So it
 was like that.  So I just said if that's your 
 obligation, then you should fulfill your 
 obligation.
-      Q. And were you a part of those conversations 
+      Ms. Sawyer: And were you a part of those conversations 
 with -- that Mr. Steele had with whoever his 
 contact was at the FBI?
-      A. No.  
-      Q. Do you have any knowledge of when that 
+      Mr. Simpson: No.  
+      Ms. Sawyer: Do you have any knowledge of when that 
 first conversation actually then took place?
-      A. Over the last several months that this has 
+      Mr. Simpson: Over the last several months that this has 
 become a public controversy I've learned the 
 general date and I believe it was if first week of 
 July, but I don't believe he told me -- if he told 
 me the time, I don't remember when he told me.  
-      Q. And that information about that time, that 
+      Ms. Sawyer: And that information about that time, that 
 first week of July, where does that come from?
-      A. It comes from news accounts of these 
+      Mr. Simpson: It comes from news accounts of these 
 events and conversations between Chris and I and 
 some of my -- presumably my business partners too.  
 Generally speaking, we have, as you know, not been 
@@ -701,31 +693,31 @@ So, you know, in the course of those kinds of
 things I generally obtained a sense of when things 
 occurred that I might otherwise not be able to 
 provide you.  
-      Q. And do you know who it is that Mr. Steele 
+      Ms. Sawyer: And do you know who it is that Mr. Steele 
 contacted and talked with at the FBI?  
-      A. I did not know at the time.  I believe I 
+      Mr. Simpson: I did not know at the time.  I believe I 
 know now, but I don't have authoritative 
 information on that.  I didn't -- yeah.  I didn't 
 know who it was in July.  
-      Q. And do you now know who that was?
-      A. I think I know, but Chris never told me.  
+      Ms. Sawyer: And do you now know who that was?
+      Mr. Simpson: I think I know, but Chris never told me.  
 I figured it out eventually based on other sources 
 and other information, but that was not until 
 December or November.  
-      Q. December of -- November or December 2016?
-      A. November, December 2016.  It was after the 
+      Ms. Sawyer: December of -- November or December 2016?
+      Mr. Simpson: November, December 2016.  It was after the 
 election.  
-      Q. And what is your understanding from what 
+      Ms. Sawyer: And what is your understanding from what 
 you've been able to put together of who that would 
 have been?  
-      A. My understanding of?  
-      Q. Of who Mr. Steele would have talked to at 
+      Mr. Simpson: My understanding of?  
+      Ms. Sawyer: Of who Mr. Steele would have talked to at 
 the FBI.
-      A. I believe it was a 
+      Mr. Simpson: I believe it was a 
  
 , an official named 
 .  
-      Q. And we had talked about that discussion 
+      Ms. Sawyer: And we had talked about that discussion 
 that you had with Mr. Steele about potentially 
 going to the FBI.  You had indicated that it was 
 just the two of you having those conversations and 
@@ -733,70 +725,68 @@ coming to that decision.  Once the decision was
 made, did you share that decision with anyone, that 
 he was going to go to the FBI with this 
 information?
-      A. I think we're not able to answer that.  
+      Mr. Simpson: I think we're not able to answer that.  
       MR. LEVY:  He's going to decline to answer 
 that question.
-BY MS. SAWYER:
-      Q. Did you seek anyone else's approval for 
+      Ms. Sawyer: Did you seek anyone else's approval for 
 him to go to the FBI?  
-      A. No.  
-      Q. Did anyone ever encourage you to ask him 
+      Mr. Simpson: No.  
+      Ms. Sawyer: Did anyone ever encourage you to ask him 
 on to go to the FBI?  
-      A. No.  
-      Q. Did anyone discourage you from having him 
+      Mr. Simpson: No.  
+      Ms. Sawyer: Did anyone discourage you from having him 
 go to the FBI?
-      A. No.  
-      Q. Do you know whether Mr. Steele when he had 
+      Mr. Simpson: No.  
+      Ms. Sawyer: Do you know whether Mr. Steele when he had 
 that first meeting, which you said occurred in the 
 first week of July, do you know whether Mr. Steele 
 actually gave the FBI this document that we've been 
 talking about, the intelligence report 2016/080?
-      A. I don't know.  
-      Q. With regard to providing -- what was the 
+      Mr. Simpson: I don't know.  
+      Ms. Sawyer: With regard to providing -- what was the 
 goal -- as you understood it, what was the purpose 
 of the kind of goal in taking this to the FBI from 
 Mr. Steele's perspective?  
       MR. LEVY:  Beyond what he's said already?  
       MS. SAWYER:  Yes.  
-BY THE WITNESS:
-      A. I mean, for him it was professional 
+      Mr. Simpson: I mean, for him it was professional 
 obligations.  I mean, for both of us it was 
 citizenship.  You know, people report crimes all 
 the time.  
-      Q. So beyond reporting -- certainly if I'm 
+      Ms. Sawyer: So beyond reporting -- certainly if I'm 
 mischaracterizing please let me know, but beyond 
 reporting what he believed was an issue of national 
 security and a potential crime, I think you had 
 said kind of a potential crime in progress, do you 
 know whether he requested that the FBI open an 
 investigation?
-      A. I don't know that.  I mean, all he told me 
+      Mr. Simpson: I don't know that.  I mean, all he told me 
 in the immediate aftermath was that he filled him 
 in.  I can talk generally about the FBI and what 
 happens when you give them information because I 
 know that from years of experience, but generally, 
 you know, you don't ask them to do it.  There's no 
 ask.  
-      Q. But you don't know what concrete steps 
+      Ms. Sawyer: But you don't know what concrete steps 
 they may have taken once they got the information 
 from him?  
-      A. I do not.  Of course we know now that 
+      Mr. Simpson: I do not.  Of course we know now that 
 shortly thereafter they got a vice award on one of 
 the people who's dealt with in here.  He's not 
 dealt with in this memo, but he's dealt with in the 
 later memos.  I don't know there's any connection 
 between these events.  I do know in Director 
 Comey's testimony he said -- I'm sorry.  Maybe I'm 
-skipping ahead.  As far as I know, they didn't -- I 
+skipping ahead.  Mr. Simpson: far as I know, they didn't -- I 
 don't know what they did.  
-      Q. So then with regard to Mr. Steele's 
+      Ms. Sawyer: So then with regard to Mr. Steele's 
 ongoing work, I presume that his work then 
 continued after you got this first memo because we 
 have additional memos between June?
-      A. Yes.  
-      Q. Was there a discussion about whether and 
+      Mr. Simpson: Yes.  
+      Ms. Sawyer: Was there a discussion about whether and 
 when he would take information to the FBI?
-      A. Not that I recall.  After the initial memo 
+      Mr. Simpson: Not that I recall.  After the initial memo 
 he told me that he had briefed him.  I don't 
 remember anything specific about the issue arising 
 again other than to say generally that as the 
@@ -816,14 +806,14 @@ So I vaguely recall that these external events
 prompted us to say I wonder what the FBI did, 
 whoops, haven't heard from them.  So that was 
 basically the state of things through September
-      Q. So do you know whether or not Mr. Steele 
+      Ms. Sawyer: So do you know whether or not Mr. Steele 
 did have any subsequent conversations with the FBI 
 after that initial conversation in the first week 
 of July 2016?
-      A. Yes, I do.  He did.  
-      Q. So can you explain the next incident where 
+      Mr. Simpson: Yes, I do.  He did.  
+      Ms. Sawyer: So can you explain the next incident where 
 you know that Mr. Steele met with the FBI?
-      A. Yes.  I guess what I'd like to explain is 
+      Mr. Simpson: Yes.  I guess what I'd like to explain is 
 what I knew at the time and what I know now.  It 
 was September and obviously the controversy was 
 really front and center now in the election.  I 
@@ -867,61 +857,61 @@ project in my mind I didn't really ask a lot of
 questions about these meetings.  I didn't ask who 
 he met with, I didn't ask, you know, much of 
 anything, but he did tell me that he gave --
-      Q. Before we get to that, which I do want to 
+      Ms. Sawyer: Before we get to that, which I do want to 
 hear, I just want to get a sense of the chronology.
-      A. Sure.  
-      Q. So when did that -- you had said the FBI 
+      Mr. Simpson: Sure.  
+      Ms. Sawyer: So when did that -- you had said the FBI 
 then came back and contacted Mr. Steele?
-      A. That's my understanding.  
-      Q. When did that, to the best of your 
+      Mr. Simpson: That's my understanding.  
+      Ms. Sawyer: When did that, to the best of your 
 knowledge, take place?
-      A. Mid to late September.  
-      Q. So in that intervening time period 
+      Mr. Simpson: Mid to late September.  
+      Ms. Sawyer: So in that intervening time period 
 Mr. Steele continues his research, he also 
 continues to provide you with memos?
-      A. Yes.  
-      Q. And at no point in that time between 
+      Mr. Simpson: Yes.  
+      Ms. Sawyer: And at no point in that time between 
 July -- the first week of July when he first met 
 with the FBI and then mid to late September did you 
 suggest to him that he should go back to the FBI?
-      A. Not that I recall.  What I would -- what I 
+      Mr. Simpson: Not that I recall.  What I would -- what I 
 believe I may have said was have you heard anything 
 from the FBI because by then it was obvious there 
 was a crime in progress.  So I just was curious 
 whether he'd heard back.  
-      Q. And when you say it was obvious that there 
+      Ms. Sawyer: And when you say it was obvious that there 
 was a crime in progress, what specifically are you 
 referencing?  
-      A. Espionage.  They were hacking into the 
+      Mr. Simpson: Espionage.  They were hacking into the 
 computers of Democrats and think tanks.  That's a 
 computer crime.  
-      Q. So the thing that was apparent was Russia 
+      Ms. Sawyer: So the thing that was apparent was Russia 
 or somebody had engaged in cyber intrusion and 
 computer crimes?  
-      A. Yes.  
-      Q. So do you know whether or not Mr. Steele 
+      Mr. Simpson: Yes.  
+      Ms. Sawyer: So do you know whether or not Mr. Steele 
 was directed -- you said you did not direct him or 
 ask him to go back to the FBI -- whether anyone 
 else either directly or indirectly asked him to go 
 to the FBI after his July 5th --
-      A. To my knowledge, no one else told him to 
+      Mr. Simpson: To my knowledge, no one else told him to 
 report this.  He may have conferred with his 
 business associates, but I don't know.  
-      Q. And you said that meeting with the FBI, 
+      Ms. Sawyer: And you said that meeting with the FBI, 
 you said Mr. Steele said he had to go to Rome for 
 this meeting.  Do you otherwise know who he met 
 with?  
-      A. This gets into the chronology of what I 
-learned when.  At some point I learned that he was 
+      Mr. Simpson: This gets into the chronology of what I 
+learned when.  Mr. Simpson: some point I learned that he was 
 meeting with the lead FBI guy from Rome.  I don't 
 remember when he told me that.  
-      Q. And did you have a name associated with 
+      Ms. Sawyer: And did you have a name associated with 
 who that was?
-      A. Not at that time.  
-      Q. You said that he told you of the meeting 
+      Mr. Simpson: Not at that time.  
+      Ms. Sawyer: You said that he told you of the meeting 
 with the FBI in Rome in mid or late September, that 
 he "gave them a full briefing"?
-      A. A debrief I think is what he probably 
+      Mr. Simpson: A debrief I think is what he probably 
 said, they had debriefed him.  I don't remember him 
 articulating the specifics of that.  You know, my 
 understanding was that they would have gotten into 
@@ -936,7 +926,7 @@ information might be credible because they had
 other intelligence that indicated the same thing 
 and one of those pieces of intelligence was a human 
 source from inside the Trump organization.  
-      Q. And did you have any understanding then or 
+      Ms. Sawyer: And did you have any understanding then or 
 now as to who that human intelligence source from 
 inside the Trump campaign might have been?  
       MR. LEVY:  He's going to decline to answer 
@@ -944,8 +934,7 @@ that question.
       MS. SAWYER:  On what basis?
       MR. SIMPSON:  Security.  
       MR. LEVY:  Security.
-BY THE WITNESS:
-      A. We had been really careful -- I was really 
+      Mr. Simpson: We had been really careful -- I was really 
 careful throughout this process to not ask a lot of 
 specific sourcing questions.  There are some things 
 I know that I just don't feel comfortable sharing 
@@ -956,56 +945,54 @@ Russians tend to get hurt.
 are privileges and obligations that might be 
 implicated in the disclosure of any source related 
 to this matter.  
-BY MS. SAWYER:
-      Q. Was this individual also a person who had 
+      Ms. Sawyer: Was this individual also a person who had 
 been a source for Mr. Steele, without identifying 
 who that was?
-      A. No.  
-      Q. So this was someone independent of 
+      Mr. Simpson: No.  
+      Ms. Sawyer: So this was someone independent of 
 Mr. Steele's sources who potentially had 
 information also on the same topics?
-      A. Yes.  I mean, I don't think this 
+      Mr. Simpson: Yes.  I mean, I don't think this 
 implicates any of the issues to say I think it was 
 a voluntary source, someone who was concerned about 
 the same concerns we had.  
       MR. DAVIS:  I'm having a hard time hearing 
 you.  Please speak up.  
-BY THE WITNESS:
-      A. It was someone like us who decided to pick 
+      Mr. Simpson: It was someone like us who decided to pick 
 up the phone and report something.
-      Q. And your understanding of this, does that 
+      Ms. Sawyer: And your understanding of this, does that 
 come from Mr. Steele or from a different source?  
-      A. That comes from Chris, yes.  
-      Q. And when did he share that information 
+      Mr. Simpson: That comes from Chris, yes.  
+      Ms. Sawyer: And when did he share that information 
 with you?
-      A. I don't remember exactly.  
-      Q. Do you think it was around the same time 
+      Mr. Simpson: I don't remember exactly.  
+      Ms. Sawyer: Do you think it was around the same time 
 that he had met with the FBI, so mid to late 
 September of 2016?
-      A. I think more likely early October.  
-      Q. Do you know whether when Mr. Steele met 
+      Mr. Simpson: I think more likely early October.  
+      Ms. Sawyer: Do you know whether when Mr. Steele met 
 with the FBI he provided them with the memos that 
 he would have had at that point in time, which 
 would have been mid to late September of 2016?
-      A. I don't know that.  He didn't tell me 
+      Mr. Simpson: I don't know that.  He didn't tell me 
 that.  He did say they asked him for -- they wanted 
 to know everything he had, but whether that would 
 include getting paper I don't know.  
-      Q. And did he indicate that he had cooperated 
+      Ms. Sawyer: And did he indicate that he had cooperated 
 fully and given them whatever information he had 
 available?
-      A. Yes.  In the course of these, you know, 
+      Mr. Simpson: Yes.  In the course of these, you know, 
 discussions, you know, he indicated to me this was 
 someone he had worked with previously who knew him 
 and that they had a -- they worked together.  
-      Q. By that person you're referring to 
+      Ms. Sawyer: By that person you're referring to 
  in Rome?
-      A. Yes.  
-      Q. Now, with regard to -- just to finish up 
+      Mr. Simpson: Yes.  
+      Ms. Sawyer: Now, with regard to -- just to finish up 
 on the interactions with FBI, do you know were 
 there any additional interactions between 
 Mr. Steele and the FBI?
-      A. There was some sort of interaction, I 
+      Mr. Simpson: There was some sort of interaction, I 
 think it was probably telephonic that occurred 
 after Director Comey sent his letter to Congress 
 reopening the investigation into Hillary Clinton's 
@@ -1034,7 +1021,7 @@ was being manipulated for political ends by the
 Trump people and that we didn't really understand 
 what was going on.  So he stopped dealing with 
 them.  
-      Q. Okay.  So I do want to get to the timing 
+      Ms. Sawyer: Okay.  So I do want to get to the timing 
 on that.  I know that I'm getting close to the end 
 of my hour.  Can I just ask you a general question 
 on the memos that we were talking about.  I had 
@@ -1043,16 +1030,16 @@ had in any way -- first of all, with regard to the
 packet on whole, did you have any input or 
 involvement in the drafting of these or input for 
 the research?
-      A. No.  
-      Q. And did you edit any of them in any way?
-      A. No.  
-      Q. So these were documents that you were just 
+      Mr. Simpson: No.  
+      Ms. Sawyer: And did you edit any of them in any way?
+      Mr. Simpson: No.  
+      Ms. Sawyer: So these were documents that you were just 
 receiving from Mr. Steele?
-      A. Yes.  I mean, the only qualifier I'd add 
+      Mr. Simpson: Yes.  I mean, the only qualifier I'd add 
 is I'm sure I said things like Paul Manafort was 
 just named campaign manager, what do you know about 
 him, that kind of thing.  
-      Q. I do want to get into some more specifics 
+      Ms. Sawyer: I do want to get into some more specifics 
 about kind of what steps and what items you may 
 also clarify, but I do want to make sure, if I 
 could have your indulgence, just that we -- well, 

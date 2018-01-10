@@ -1,16 +1,14 @@
       MR. DAVIS:  We'll go back on the record.  
 It's 5:43 p.m.
                     EXAMINATION
-BY MR. DAVIS:
-      Q. Mr. Simpson, could you walk us through 
+      Mr. Davis: Mr. Simpson, could you walk us through 
 your itinerary to the best you remember it from 
 June 8th through 10th of 2016, especially any 
 interactions you had with Prevezon team members 
 during those three days?  
       MR. LEVY:  Beyond what he's discussed today?  
       MR. DAVIS:  Yes.
-BY THE WITNESS:
-      A. I took the train to New York.  I don't 
+      Mr. Simpson: I took the train to New York.  I don't 
 recall, but I may have had other business.  I don't 
 remember.  I think there was a dinner.  I went back 
 to my hotel, went to bed.  Got up the next morning.  
@@ -26,12 +24,12 @@ had the meeting with those guys, the Weber
 Shandwick guys, and then I hightailed it home.  My 
 son's junior prom was that night or senior prom and 
 I was under some pressure to go home and be a dad.  
-      Q. And then on the 10th, that first day back 
+      Mr. Davis: And then on the 10th, that first day back 
 in D.C.?
-      A. I don't think that was my first day back.  
+      Mr. Simpson: I don't think that was my first day back.  
 I was back the evening of the 9th.  
-      Q. Sorry.  The first full day.
-      A. I think it was a weekend.  So I don't know 
+      Mr. Davis: Sorry.  The first full day.
+      Mr. Simpson: I think it was a weekend.  So I don't know 
 what I was doing.  Probably just relaxing.  I went 
 to the dinner, it was at a restaurant called 
 Barcelona up on Wisconsin Avenue, it was a social 
@@ -41,8 +39,7 @@ nongermane topics.  It was just a social
 occasion.  
                    (Exhibit 6 was marked for 
                     identification.)
-BY MR. DAVIS:
-      Q. I'm going to show you an exhibit.  I think 
+      Mr. Davis: I'm going to show you an exhibit.  I think 
 we're on 6.  We understand these are meeting notes.  
 Do these phrases about -- including Mr. Browder 
 mean anything to you or relate to any of the 
@@ -53,8 +50,7 @@ notes about what meeting?
       MR. DAVIS:  These are the meeting notes from 
 the June 9th meeting at Trump Tower.  These are 
 Mr. Manafort's notes or they're contemporaneous.
-BY THE WITNESS:
-      A. I could tell -- obviously you know who 
+      Mr. Simpson: I could tell -- obviously you know who 
 Bill Browder is.  Cyprus Offshore, Bill Browder's 
 structure, you know, investment -- Hermitage 
 Capital, his hedge fund, set up numerous companies 
@@ -71,7 +67,7 @@ that from research that you did and provided to --
       MR. FOSTER:  -- research that you did and 
 provided to Baker Hostetler and their client?
       MR. SIMPSON:  Yes.  There was a -- I can 
-elaborate a little bit.  As part of the research 
+elaborate a little bit.  Mr. Simpson: part of the research 
 into how Hermitage Capital worked we looked at 
 various things, their banking relationships, the 
 way they structured their investments in Russia.  I 
@@ -81,18 +77,16 @@ to hold the investments of individual clients of
 Hermitage.  So one of the things we discovered from 
 that was the likely identities of some of 
 Hermitage's clients.  
-BY MR. DAVIS:
-      Q. Do any of the other entries in here mean 
+      Mr. Davis: Do any of the other entries in here mean 
 anything to you in light of the research you've 
 conducted or what you otherwise know about 
 Mr. Browder?
-      A. I'm going to -- I can only speculate about 
+      Mr. Simpson: I'm going to -- I can only speculate about 
 some of these things.  I mean, sometimes --
       MR. LEVY:  Don't speculate.  
-BY THE WITNESS:
-      A. Just would be guesses.  
-      Q. Okay.
-      A. I can skip down a couple.  So "Value in 
+      Mr. Simpson: Just would be guesses.  
+      Mr. Davis: Okay.
+      Mr. Simpson: I can skip down a couple.  So "Value in 
 Cyprus as inter," I don't know what that means.  
 "Illici," I don't know what that means.  "Active 
 sponsors of RNC," I don't know what that means.  
@@ -102,12 +96,12 @@ press secretary during the Iraq war and associated
 with another foreign policy controversy.  "Russian 
 adoptions by American families" I assume is a 
 reference to the adoption issue.  
-      Q. And by "adoption issue" do you mean Russia 
+      Mr. Davis: And by "adoption issue" do you mean Russia 
 prohibiting U.S. families from adopting Russian 
 babies as a measure in response to the Magnitsky 
 act?
-      A. I assume so.  
-      Q. The information here, is this generally 
+      Mr. Simpson: I assume so.  
+      Mr. Davis: The information here, is this generally 
 consistent with the type of information you or 
 Baker Hostetler were providing about Mr. Browder 
 and his activities?  
@@ -122,18 +116,17 @@ what's here he doesn't know what it means, he
 doesn't have knowledge or recollection as to these 
 terms.  
       MR. DAVIS:  The parts you do recognize.
-BY THE WITNESS:
-      A. Couple of the items touch on things that I 
+      Mr. Simpson: Couple of the items touch on things that I 
 worked on, Cyprus, Bill Browder.  
-      Q. I'm going to jump back to the Russia 
+      Mr. Davis: I'm going to jump back to the Russia 
 investigation.  You'd mentioned before you've had 
 some subcontractors that you've worked with long 
 enough that you call them super subs; is that 
 correct?  
-      A. Yes.  
-      Q. Orbis or Mr. Steele, is that one such 
+      Mr. Simpson: Yes.  
+      Mr. Davis: Orbis or Mr. Steele, is that one such 
 super sub in your opinion?
-      A. It's a loose term.  We don't have a list 
+      Mr. Simpson: It's a loose term.  We don't have a list 
 of super subs.  
       MR. FOSTER:  Is he one of them?
       MR. SIMPSON:  There is no list.  So I can't 
@@ -146,8 +139,7 @@ described these super subs earlier loosely, even
 with some of these super subs Mr. Simpson said that 
 he would talk about clients only on a need-to-know 
 basis even with the super subs, so-called.  
-BY MR. DAVIS:
-      Q. Beyond the memoranda prepared by 
+      Mr. Davis: Beyond the memoranda prepared by 
 Mr. Steele, did Fusion create any other work 
 product relating to this investigation?  
       MR. LEVY:  Which investigation?  
@@ -168,23 +160,22 @@ memoranda.
       MR. DAVIS:  Right, but it was a subcontractor 
 giving it back to Fusion.  
       MR. LEVY:  That's correct.  
-BY MR. DAVIS:
-      Q. With that understanding, did Fusion create 
+      Mr. Davis: With that understanding, did Fusion create 
 any work product of its own?
-      A. Yes.  
-      Q. And can you describe what type of work 
+      Mr. Simpson: Yes.  
+      Mr. Davis: And can you describe what type of work 
 product that was?
-      A. I believe I described it before.  We do a 
+      Mr. Simpson: I believe I described it before.  We do a 
 lot of public records research, things that are in 
 the news, things that are in court documents.  We 
 summarize those things and try to document, you 
 know, and attach them to the underlying source 
 material.  
-      Q. So you create sort of summary memoranda of 
+      Mr. Davis: So you create sort of summary memoranda of 
 those documents?
-      A. Yes.  
-      Q. Okay.  And to whom is that distributed?  
-      MR. LEVY:  As a general matter?  
+      Mr. Simpson: Yes.  
+      Mr. Davis: Okay.  And to whom is that distributed?  
+      MR. LEVY:  Mr. Simpson: a general matter?  
       MR. DAVIS:  Well, within the course of this 
 investigation.  
       MR. LEVY:  Inasmuch as that answer calls for 
@@ -195,12 +186,11 @@ has.  So he's not going to answer that question.
 your client?  
       MR. LEVY:  Again, the answer to that question 
 might implicate privilege or his obligations.  
-BY MR. DAVIS:
-      Q. Is the version of the Steele memoranda 
+      Mr. Davis: Is the version of the Steele memoranda 
 that was published by BuzzFeed identical to the 
 version that Orbis provided Fusion?
-      A. To my knowledge, yes.  
-      Q. The version published by BuzzFeed contains 
+      Mr. Simpson: To my knowledge, yes.  
+      Mr. Davis: The version published by BuzzFeed contains 
 several redactions, not merely the ones by 
 Mr. Gubarev, G-U-B-A-R-E-V, that were later added.  
 Were those redactions in the versions Mr. Steele 
@@ -212,24 +202,23 @@ version in Exhibit 3?
 redactions that appear here were delivered to 
 Fusion? 
       MR. DAVIS:  Right.
-BY THE WITNESS:
-      A. No.  
-      Q. Do you know who added those redactions?
-      A. No.  
-      Q. Did any version of the memoranda list 
+      Mr. Simpson: No.  
+      Mr. Davis: Do you know who added those redactions?
+      Mr. Simpson: No.  
+      Mr. Davis: Did any version of the memoranda list 
 source and subsource names rather than referring to 
 sources anonymously?  
-      A. I'm not sure I understand the question.  
-      Q. In the version that we have as an exhibit 
+      Mr. Simpson: I'm not sure I understand the question.  
+      Mr. Davis: In the version that we have as an exhibit 
 obviously it doesn't give identifying information 
-for sources, it says source A, subsources, things 
+for sources, it says source Mr. Simpson: subsources, things 
 like that.  Was there ever a version that listed 
 the actual source names rather than substituting 
 them?
-      A. These are the versions that we received.  
-      Q. They're what?
-      A. These are the memos that we received.  
-      Q. Those are the memos you received.  Okay.  
+      Mr. Simpson: These are the versions that we received.  
+      Mr. Davis: They're what?
+      Mr. Simpson: These are the memos that we received.  
+      Mr. Davis: Those are the memos you received.  Okay.  
       MR. FOSTER:  But he's asking if you received 
 any other memos that listed the sources?  
       MR. LEVY:  He did not -- what I think he said 
@@ -240,27 +229,24 @@ documentation from Mr. Steele that listed the
 sources?
       MR. SIMPSON:  I don't want to get into source 
 information.  
-BY MR. DAVIS:
-      Q. Again, I don't want to repeat questions 
+      Mr. Davis: Again, I don't want to repeat questions 
 that have been asked, but I don't want to 
 unintentionally omit anything.  Did the version 
 provided to the FBI include all source names?
-      A. I don't know that there was a version 
+      Mr. Simpson: I don't know that there was a version 
 provided to the FBI.  
-      Q. When Mr. Steele first met with the FBI in 
+      Mr. Davis: When Mr. Steele first met with the FBI in 
 the summer of 2016 do you know if he provided the 
 first memoranda that he created?  
       MR. LEVY:  He's already answered that 
 question.  
-BY THE WITNESS:
-      A. No, I don't know.  
-      Q. Do you know if he provided any other 
+      Mr. Simpson: No, I don't know.  
+      Mr. Davis: Do you know if he provided any other 
 memoranda to the FBI on a rolling basis at all at 
 any point?  
       MR. LEVY:  He's answered that question too.  
-BY THE WITNESS:
-      A. I don't know.  
-      Q. So I'd like to go back to Exhibit 4, I 
+      Mr. Simpson: I don't know.  
+      Mr. Davis: So I'd like to go back to Exhibit 4, I 
 believe.  On page 3, paragraph 18 Mr. Steele's 
 attorneys are describing the December memoranda and 
 they state "The Defendants" -- again, that's 
@@ -273,8 +259,8 @@ assignment for Fusion."
 page 4.  Request 11 asks "Please state whether such 
 intelligence was actively sought by the 
 Defendant" --
-      A. Where are you at?  
-      Q. Page 4, request 11.  It states "Please 
+      Mr. Simpson: Where are you at?  
+      Mr. Davis: Page 4, request 11.  It states "Please 
 state whether such intelligence was actively sought 
 by the second Defendant or merely received as 
 presently pleaded."  The response they say is "Such 
@@ -282,13 +268,13 @@ intelligence was not actively sought, it was merely
 received."  
       Did anyone -- are you aware of who sent this 
 unsolicited intelligence to Mr. Steele?
-      A. No.  
-      Q. Could you describe his methods of 
+      Mr. Simpson: No.  
+      Mr. Davis: Could you describe his methods of 
 compiling the dossier a little more?  I think 
 before you described field interviews.  He seems to 
 be talking about unsolicited information coming to 
 him rather than information he sought out?
-      A. I can try.  When you're doing field 
+      Mr. Simpson: I can try.  When you're doing field 
 information gathering you have a network of people, 
 sources.  It's not like a light switch that you 
 turn on and off, these are people you work with.  
@@ -297,10 +283,10 @@ don't close the window and stop answering phone
 calls, you know, when the engagement ends.  So I 
 assume this is stuff that came in straggle, 
 whatever you call it.  
-      Q. To the best of your knowledge, did 
+      Mr. Davis: To the best of your knowledge, did 
 Mr. Steele pay any of his sources or subsources in 
 the memoranda for information?
-      A. I don't know.  I think there's been a 
+      Mr. Simpson: I don't know.  I think there's been a 
 little bit of confusion I would like to clear up.  
 Some people were saying that he was paying people 
 for information.  I don't know whether he does or 
@@ -310,64 +296,63 @@ gather information for you rather than sort of
 paying someone for a document or to sit for an 
 interview or something like that.  That's not how I 
 understand it works.  
-      Q. To make sure I understand, are you saying 
+      Mr. Davis: To make sure I understand, are you saying 
 you don't pay for particular information, you would 
 have an established financial arrangement with 
 someone?
-      A. If he did at all, but I did not ask and he 
+      Mr. Simpson: If he did at all, but I did not ask and he 
 did not share that information.  He did not invoice 
 me for any such.  
-      Q. Did Mr. Steele ever discuss his opinion of 
+      Mr. Davis: Did Mr. Steele ever discuss his opinion of 
 Mr. Trump with you?
-      A. We didn't discuss our political views of 
+      Mr. Simpson: We didn't discuss our political views of 
 Mr. Trump, I don't think, at least not that I 
 specifically remember, if that's what you mean.  
-      Q. That is.  
+      Mr. Davis: That is.  
       If I recall correctly, you said earlier that 
 once Fusion had exhausted public documentary 
 sources you turned to Mr. Steele and some other 
 subcontractors for human intelligence; is that 
 correct?
-      A. Yeah, field intelligence.  
-      Q. Would your engagement with your client 
+      Mr. Simpson: Yeah, field intelligence.  
+      Mr. Davis: Would your engagement with your client 
 have ended had you not turned to human 
 intelligence?
-      A. I have no idea.  I mean, I can't 
+      Mr. Simpson: I have no idea.  I mean, I can't 
 speculate.  
-      Q. Well, to clarify, when say you had 
+      Mr. Davis: Well, to clarify, when say you had 
 exhausted the public documentation, are you saying 
 you reached the end of your work or was there still 
 more?
-      A. No.  It's a broad project, there's lots of 
+      Mr. Simpson: No.  It's a broad project, there's lots of 
 things going on.  We're pulling legal filings and 
 bankruptcies and all sorts of other stuff on all 
 kinds of issues.  I was talking about specific 
 lines of inquiry.  
-      Q. To the best of your knowledge, do Rinat 
+      Mr. Davis: To the best of your knowledge, do Rinat 
 Akhmetshin and Christopher Steele know each 
 other?  
-      A. I don't know.  
-      Q. To the best of your knowledge, has 
+      Mr. Simpson: I don't know.  
+      Mr. Davis: To the best of your knowledge, has 
 Mr. Akhmetshin ever worked with Orbis?
-      A. Not to my knowledge.  
+      Mr. Simpson: Not to my knowledge.  
       MR. FOSTER:  If Mr. Akhmetshin were one of 
 the sources in the dossier, would you know that?
       MR. SIMPSON:  I believe he would have told me 
 that by now given the public controversy over this 
 matter, but he hasn't.  
-BY MR. DAVIS:
-      Q. I'm sorry.  Is the "he" --
-      A. Chris Steele.  
-      Q. How often would you say you interacted 
+      Mr. Davis: I'm sorry.  Is the "he" --
+      Mr. Simpson: Chris Steele.  
+      Mr. Davis: How often would you say you interacted 
 with Mr. Akhmetshin during the 2016 elections 
 season?
-      A. Infrequently, intermittently.  
-      Q. When was the last time you spoke with him?
-      A. I don't remember, but I don't think it 
+      Mr. Simpson: Infrequently, intermittently.  
+      Mr. Davis: When was the last time you spoke with him?
+      Mr. Simpson: I don't remember, but I don't think it 
 was -- I just don't remember.  
-      Q. To the best of your knowledge, was Ed 
+      Mr. Davis: To the best of your knowledge, was Ed 
 Lieberman aware of your Trump research project?
-      A. Not to the best of my knowledge. 
+      Mr. Simpson: Not to the best of my knowledge. 
       MR. FOSTER:  Could you just tell us generally 
 who else other than your client was aware of the 
 Trump research project as it was going on.  So 
@@ -432,16 +417,15 @@ working on.  So some people will say, hey, I'm
 interested in whether Donald Trump gets his ties 
 from third-world countries and they wouldn't ask 
 about anything else.  
-BY MR. DAVIS:
-      Q. You mentioned before, if I recall 
+      Mr. Davis: You mentioned before, if I recall 
 correctly, that Fusion was having issues with 
 persons attempting to hack it?  
-      A. That's a current concern, yes.  
-      Q. When did that concern -- when did you 
+      Mr. Simpson: That's a current concern, yes.  
+      Mr. Davis: When did that concern -- when did you 
 first become aware of that concern?
-      A. Relatively recently.  
-      Q. So after the election?
-      A. Yes.  
+      Mr. Simpson: Relatively recently.  
+      Mr. Davis: So after the election?
+      Mr. Simpson: Yes.  
       MR. FOSTER:  Did you tell journalists that 
 you had engaged Mr. Steele in the summer of 2016?
       MR. SIMPSON:  I don't specifically remember 
@@ -470,11 +454,10 @@ use of him as a resource.
 before or after he ended his relationship with the 
 FBI?
       MR. SIMPSON:  Before.  
-BY MR. DAVIS:
-      Q. Do you recall what the first published 
+      Mr. Davis: Do you recall what the first published 
 article -- when the first published article came 
 out that referenced material from the memoranda?
-      A. Not specifically.  
+      Mr. Simpson: Not specifically.  
       MR. FOSTER:  Earlier you talked about 
 evaluating the credibility of the information in 
 the memoranda that you were being provided by 
@@ -511,8 +494,7 @@ information and he's going to decline to answer
 this one question.  
       MR. FOSTER:  And several others.  
       MR. LEVY:  Not many.  
-BY MR. DAVIS:
-      Q. I think you mentioned that you were in 
+      Mr. Davis: I think you mentioned that you were in 
 London when you first heard that someone was 
 interested in hiring Fusion to work on the Trump 
 research; is that correct?  
@@ -521,16 +503,14 @@ research; is that correct?
 Mr. Simpson said that he was in London when he 
 first heard that somebody was interested in hiring 
 Fusion to do Trump research?
-BY THE WITNESS:
-      A. That's my recollection.  
-      Q. Were either of the clients on this project 
+      Mr. Simpson: That's my recollection.  
+      Mr. Davis: Were either of the clients on this project 
 not American citizens?
-      A. Were either of the clients on this --
+      Mr. Simpson: Were either of the clients on this --
       MR. LEVY:  Clients on which project?  
-BY MR. DAVIS:
-      Q. Were any clients on the Trump research not 
+      Mr. Davis: Were any clients on the Trump research not 
 American citizens?
-      A. I don't mind answering that if that's 
+      Mr. Simpson: I don't mind answering that if that's 
 okay.  They're domestic clients.  
       MR. FOSTER:  You said earlier that the 
 information that you gather in your work is owned 
@@ -598,14 +578,13 @@ information?
 I've chosen not to deny.  You know, generally 
 speaking, I deal with a lot of journalists.  I'm 
 not going to mislead people.  
-BY MR. DAVIS:
-      Q. To the extent you can clarify, is it that 
+      Mr. Davis: To the extent you can clarify, is it that 
 there were two sets of clients, one of whom was 
 Republican and one of which was a Clinton 
 supporter, or was it one person's whose views 
 changed?  
       MR. LEVY:  We're not going to get into the 
-identity of clients.  As you know, we've agreed to 
+identity of clients.  Mr. Simpson: you know, we've agreed to 
 an interview about questions 5 through 13 of the 
 March 24 request.  Questions 1 through 4 talk about 
 the identities of the clients.  The Chair and the 
@@ -626,13 +605,12 @@ we've asserted privileges of confidentiality.  It's
 a voluntary interview and he's declining to answer 
 the question.  
       MR. DAVIS:  I understand that. 
-BY MR. DAVIS:
-      Q. So with the Prevezon matter, then, is it 
+      Mr. Davis: So with the Prevezon matter, then, is it 
 correct the law firm involved was Baker Hostetler 
 and the ultimate client was Prevezon, is that 
 right, while you were working there?
-      A. Yes.  
-      Q. So any attorney-client privileges within 
+      Mr. Simpson: Yes.  
+      Mr. Davis: So any attorney-client privileges within 
 the context of that information would be -- the 
 holder of that privilege is Prevezon; is that 
 correct?  
@@ -645,8 +623,7 @@ to it without their permission?
 covered by attorney-client privilege.  
       MR. LEVY:  I'm not sure he's qualified to 
 answer that question.  
-BY MR. DAVIS:
-      Q. Did you work with any law firms in 
+      Mr. Davis: Did you work with any law firms in 
 relation to the Trump investigation?  
       MR. LEVY:  Again, we're not getting into the 
 identity of any clients --
@@ -704,28 +681,25 @@ replete -- or the public report of my work is
 replete with examples of investigations I've done 
 of Democrats that resulted in them losing their 
 elections and being prosecuted.  
-      MR. LEVY:  At the Wall Street Journal?
+      MR. LEVY:  Mr. Simpson: the Wall Street Journal?
       MR. SIMPSON:  Yes.  
-BY MR. DAVIS:
-      Q. Are you party to a joint defense agreement 
+      Mr. Davis: Are you party to a joint defense agreement 
 related to your Prevezon work?  
       MR. LEVY:  He's not going to talk about 
 privileged discussions or agreements, and he's 
 probably not qualified to answer anyway.  
-BY MR. DAVIS:
-      Q. Is Fusion GPS paying Cunningham Levy for 
+      Mr. Davis: Is Fusion GPS paying Cunningham Levy for 
 the firm's representation of you or as a third 
 party?  
       MR. LEVY:  That's privileged also.  He's not 
 getting into payments to his lawyers and it's 
 beyond the scope of this interview which has now 
 gone on for almost nine hours.  
-BY MR. DAVIS:
-      Q. Has Fusion GPS ever offered directly or 
+      Mr. Davis: Has Fusion GPS ever offered directly or 
 indirectly to pay journalists to publish 
 information?  
-      A. No.  
-      Q. Are you aware of any Fusion clients 
+      Mr. Simpson: No.  
+      Mr. Davis: Are you aware of any Fusion clients 
 offering directly or indirectly to pay journalists 
 to publish information from Fusion?  
       MR. LEVY:  While working for Fusion on a 
@@ -739,12 +713,11 @@ interview --
       MR. DAVIS:  Are there any of Fusion's 
 clients offering --
       THE REPORTER:  Guys.
-BY MR. DAVIS:
-      Q. I'll repeat the question.  Are you aware 
+      Mr. Davis: I'll repeat the question.  Are you aware 
 of any of Fusion's clients offering directly or 
 indirectly to pay journalists to publish 
 information from Fusion?
-      A. Not to my knowledge or recollection, no.  
+      Mr. Simpson: Not to my knowledge or recollection, no.  
       MR. FOSTER:  What was the end date of the 
 Trump engagement?  
       MR. LEVY:  He told you he didn't recall 

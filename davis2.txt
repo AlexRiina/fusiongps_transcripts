@@ -1,6 +1,5 @@
 MR. DAVIS:  We're back on the record.  It's 12:06 p.m. 
-BY MR. DAVIS:
-      Q. All right.  Mr. Simpson, I'm going to 
+      Mr. Davis: All right.  Mr. Simpson, I'm going to 
 return to the topic of Prevezon.  Let me know if 
 I'm accurately summarizing the scope of work you're 
 describing.  I think you've described three main 
@@ -17,26 +16,25 @@ that, but go ahead.
 where we left off.  
       MR. LEVY:  I don't think that's the main 
 topics either, but go ahead.  
-BY THE WITNESS:
-      A. Is that a yes-or-no question?  I think 
+      Mr. Simpson: Is that a yes-or-no question?  I think 
 those are three things I covered, but I covered a 
 lot of stuff.  
-      Q. With the information that you gathered in 
+      Mr. Davis: With the information that you gathered in 
 those and related efforts, what did you do with the 
 information once you obtained it?  
-      A. Well, the first thing you do is you give 
+      Mr. Simpson: Well, the first thing you do is you give 
 it to the lawyers and, you know, when appropriate 
 you give it to reporters, you know, put it in court 
 filings.  
-      Q. So is it correct, then, people associated 
+      Mr. Davis: So is it correct, then, people associated 
 with Fusion did communicate with journalists about 
 the Prevezon case and the information you found out 
 about Mr. Browder?
-      A. Yes.  
-      Q. And did Fusion engage in these 
+      Mr. Simpson: Yes.  
+      Mr. Davis: And did Fusion engage in these 
 communications with the media on its own accord or 
 were you directed or authorized to do so?  
-      A. In litigation support, you know, basically 
+      Mr. Simpson: In litigation support, you know, basically 
 the cases that we work on frequently get some media 
 attention.  So it's always part of a litigation 
 engagement that if you're the guy that does the 
@@ -45,19 +43,18 @@ reporters because they're going to ask questions
 about, you know, information from the case.  
       MR. LEVY:  Just make sure you answer his 
 question.  Was it done?
-BY THE WITNESS:
-      A. That's part of what the lawyers hire you 
+      Mr. Simpson: That's part of what the lawyers hire you 
 to do and that's what they instruct you to do.  The 
 way it generally happens is the lawyer gets a call 
 from a reporter who wants to write a story about 
 the case and he answers the questions or gives them 
 a quote and then he instructs me to give him 
 background information.
-      Q. So then was it typically done on a 
+      Mr. Davis: So then was it typically done on a 
 case-by-case basis or did you have blanket 
 authorization regardless of specific interactions 
 with the attorneys?
-      A. These things evolved over time.  So in the 
+      Mr. Simpson: These things evolved over time.  So in the 
 beginning of the case when you're new to a subject 
 you're generally fielding -- you generally get 
 requests from the lawyers to answer a specific 
@@ -72,9 +69,9 @@ there's more coverage, you know, they will direct
 you to answer questions for the reporters covering 
 the case.  They won't tell you on an individual 
 basis talk to so-and-so.  It's a little of both.  
-      Q. Was Fusion then paid for these 
+      Mr. Davis: Was Fusion then paid for these 
 communications with the media?  
-      A. We were compensated for our litigation 
+      Mr. Simpson: We were compensated for our litigation 
 support and as part of that we were directed to 
 talk to the media.  So in the fundamental sense 
 yes, we were.  Specifically paid for individual 
@@ -94,21 +91,20 @@ hearings.  So I would go to a court hearing with
 the lawyers and there would be reporters there.  So 
 part of what I was billing for was answering their 
 questions.
-BY MR. DAVIS:
-      Q. And with which news organizations did 
+      Mr. Davis: And with which news organizations did 
 Fusion communicate in relation to the Prevezon 
 case?
-      A. I will try to remember them.  It was the 
+      Mr. Simpson: I will try to remember them.  It was the 
 major news organizations that were covering the 
 litigation.  Usually it was their courthouse or 
 legal reporters.  So it was Bloomberg, New York 
 Times, Wall Street Journal, probably Reuters, Legal 
 360.  I'm sure there were a handful of others.
-      Q. Was the Financial Times possibly one of 
+      Mr. Davis: Was the Financial Times possibly one of 
 them?  
-      A. Yes.  
-      Q. Politico?  
-      A. They approached us with -- they had been 
+      Mr. Simpson: Yes.  
+      Mr. Davis: Politico?  
+      Mr. Simpson: They approached us with -- they had been 
 getting information from Bill Browder.  He had 
 alleged to them that we were part of a big campaign 
 on Capitol Hill and that we were engaged in 
@@ -118,13 +114,13 @@ eventually we did end up dealing with that, but I
 don't remember whether we dealt with them prior to 
 that.  I don't think they covered the case prior to 
 that.  
-      Q. What about NBC?
-      A. We would have -- I'm sorry.  Yes.  
-      Q. And the New Republic?
-      A. I think so.
-      Q. And do you recall what information you 
+      Mr. Davis: What about NBC?
+      Mr. Simpson: We would have -- I'm sorry.  Yes.  
+      Mr. Davis: And the New Republic?
+      Mr. Simpson: I think so.
+      Mr. Davis: And do you recall what information you 
 provided to each or is that too into the weeds?
-      A. I don't know if it's in the weeds, but 
+      Mr. Simpson: I don't know if it's in the weeds, but 
 generally speaking, the work -- we provided 
 information about the work that I had done about 
 William Browder's credibility.  The whole case 
@@ -135,25 +131,25 @@ want to talk.  So a lot of it was about his
 credibility, about his account of his activities in 
 Russia, about his history of tax avoidance, all 
 these things.  
-      Q. Did Fusion provide the media information 
+      Mr. Davis: Did Fusion provide the media information 
 alleging that Browder had illicitly engineered the 
 purchase of 133 million shares of Gazprom?
-      A. I don't know for sure, but we certainly 
+      Mr. Simpson: I don't know for sure, but we certainly 
 did research on that issue.  
-      Q. And you described investigating these 
+      Mr. Davis: And you described investigating these 
 series of issues.  How did you acquire the 
 information in the course of this investigate?
-      A. We used the methods that I've described 
+      Mr. Simpson: We used the methods that I've described 
 here today.  We pulled court records, we pulled 
 corporate records, we, you know, pulled real estate 
 records, SEC securities filings, that sort of 
 thing.  
-      Q. And was any of the information you 
+      Mr. Davis: And was any of the information you 
 provided to the media information that wasn't the 
 result of your own research but that had been 
 passed along to you by Baker Hostetler or Prevezon?
-      A. I think the answer to that is yes, but I'm 
-struggling to think of a specific example.  As I 
+      Mr. Simpson: I think the answer to that is yes, but I'm 
+struggling to think of a specific example.  Mr. Simpson: I 
 was saying earlier, the lawyers did a lot of the 
 research too.  So there was obviously a sharing of 
 research where, you know, we were feeding research 
@@ -163,11 +159,11 @@ memoranda and given in court filings.  In a lot of
 these cases we were giving people court filings.  
 So the information was mixed together from various 
 sources.  
-      Q. Did Fusion independently verify the 
+      Mr. Davis: Did Fusion independently verify the 
 information provided by Baker Hostetler or Prevezon 
 or in this circumstance was it assumed to be 
 reliable given your work with them?
-      A. We certainly did not independently verify 
+      Mr. Simpson: We certainly did not independently verify 
 everything that the lawyers generated in the case.  
 That would have been an enormous task and it would 
 have made no sense.  
@@ -178,43 +174,43 @@ good lawyers and very conservative.  So if they
 provided me with information that they had 
 gathered, I would have been confident -- I was 
 confident in the quality of their work.  
-      Q. And did Prevezon or Baker Hostetler ever 
+      Mr. Davis: And did Prevezon or Baker Hostetler ever 
 direct Fusion to relay to the media information 
 that they had provided to Fusion?
-      A. I'm sorry.  Can you say that again.  
-      Q. Did Baker Hostetler or Prevezon direct 
+      Mr. Simpson: I'm sorry.  Can you say that again.  
+      Mr. Davis: Did Baker Hostetler or Prevezon direct 
 Fusion to relay to the media information that they 
 had provided to you?
-      A. I don't specifically recall an example of 
+      Mr. Simpson: I don't specifically recall an example of 
 that, but I think as a general sort of operating 
 principle we were working at their direction and 
 they were providing us with, you know, case 
 information.  So I think so, but I just don't have 
 an idea.  
-      Q. And did anyone at Fusion or perhaps 
+      Mr. Davis: And did anyone at Fusion or perhaps 
 Mr. Baumgartner review Russian documents related to 
 the Prevezon matter?
-      A. Yes.  
-      Q. Do any --
-      A. Most of them were Russian court 
+      Mr. Simpson: Yes.  
+      Mr. Davis: Do any --
+      Mr. Simpson: Most of them were Russian court 
 documents.  
-      Q. Do any Fusion employees or associates 
+      Mr. Davis: Do any Fusion employees or associates 
 speak Russian?
-      A. No.  I'll qualify that.  Depends on how 
+      Mr. Simpson: No.  I'll qualify that.  Depends on how 
 you define associate.  Edward isn't an employee of 
 the company, but he speaks Russian.  He's a 
 subcontractor.  
-      Q. Aside from Mr. Baumgartner, do you have 
+      Mr. Davis: Aside from Mr. Baumgartner, do you have 
 any other support from Russian-speaking individuals 
 in reviewing the Russian documents?
-      A. Not in my company, at least not that I can 
+      Mr. Simpson: Not in my company, at least not that I can 
 recall.  There was other Russian speakers I think 
 that were engaged by Baker Hostetler in various 
 situations, like translators, Russian bilingual 
 lawyers, that sort of thing.  
-      Q. Do you remember the names of any of those 
+      Mr. Davis: Do you remember the names of any of those 
 people?
-      A. Anatoli, whose last name I can't really 
+      Mr. Simpson: Anatoli, whose last name I can't really 
 pronounce, was a New York-based English-Russian 
 court translator.  He was mostly a courtroom 
 translator.  So I don't know whether he -- I really 
@@ -278,37 +274,35 @@ know that this guy was unwilling to appear in court
 in public under oath to talk about the story that 
 he'd been selling for years about his activities in 
 Russia?  Yeah, we wanted people to know that.
-BY MR. DAVIS:
-      Q. Other than the media and Baker Hostetler, 
+      Mr. Davis: Other than the media and Baker Hostetler, 
 did Fusion provide any information regarding the 
 Prevezon matter to any other third parties?
-      A. I don't have a specific recollection of 
+      Mr. Simpson: I don't have a specific recollection of 
 doing so.  If there's a specific incident that 
 you'd like to ask about I'd be happy to try and 
 answer that.  I don't remember.  
-      Q. We'll get into that a little bit more.  
+      Mr. Davis: We'll get into that a little bit more.  
       Also to go back to the translator you 
 mentioned, you said Anatoli and that you didn't 
 know how to pronounce --
-      A. Samochornov I think is his --
-      Q. Okay.
-      A. I'm massacring it.  Again, it's something 
+      Mr. Simpson: Samochornov I think is his --
+      Mr. Davis: Okay.
+      Mr. Simpson: I'm massacring it.  Again, it's something 
 that's in the public record.  
-      Q. Do you know Rinat Akhmetshin?
-      A. Yes, I do.  
+      Mr. Davis: Do you know Rinat Akhmetshin?
+      Mr. Simpson: Yes, I do.  
       MR. MUSE:  Spell it.
       MR. DAVIS:  Sure.  R-I-N-A-T, 
 A-K-H-M-E-T-S-H-I-N.  
-BY MR. DAVIS:
-      Q. When did you first meet Mr. Akhmetshin?  
-      A. When I was a reporter at the Wall Street 
+      Mr. Davis: When did you first meet Mr. Akhmetshin?  
+      Mr. Simpson: When I was a reporter at the Wall Street 
 Journal.  
-      Q. And as far as you know, what is his 
+      Mr. Davis: And as far as you know, what is his 
 business?
-      A. Some kind of PR consulting lobbyist.  I 
+      Mr. Simpson: Some kind of PR consulting lobbyist.  I 
 think he's a registered lobbyist.  
-      Q. Have you ever worked with Mr. Akhmetshin?
-      A. I've been -- in the Prevezon case I 
+      Mr. Davis: Have you ever worked with Mr. Akhmetshin?
+      Mr. Simpson: I've been -- in the Prevezon case I 
 interacted with him.  I think -- again, this has 
 unhelpfully been distorted by William Browder into 
 some sort of economic relationship or conspiracy or 
@@ -318,9 +312,9 @@ years around town.  So, you know, the only thing
 that I specifically recall having done with him was 
 interacting for a brief period on the Prevezon 
 case.  
-      Q. You don't recall working with him for any 
+      Mr. Davis: You don't recall working with him for any 
 other clients or cases?
-      A. Let's be clear, I'm sure we did not do 
+      Mr. Simpson: Let's be clear, I'm sure we did not do 
 business together, but I do work on areas of the 
 world where he's from, Central Asia, former Soviet 
 Union, and he is, as I'm sure you've seen, a guy 
@@ -332,44 +326,44 @@ over the years.  He's told me various things and I
 think I even met one of his clients at one point, 
 but it wasn't a business thing.  I don't think I 
 was doing any work.  I was just networking.  
-      Q. You said he told you various things.  Do 
+      Mr. Davis: You said he told you various things.  Do 
 you mean he would pass along information to you?
-      A. The information that I remember was about 
+      Mr. Simpson: The information that I remember was about 
 his Kyrgyzstan stuff.  There was a congressional 
 investigation into Kyrgyzstan that he claimed 
 credit for having started and he told me about it 
 for some reason, but it wasn't because we were 
 doing business together.  It was coffee or 
 something.  
-      Q. You said he claimed credit for having 
+      Mr. Davis: You said he claimed credit for having 
 started the congressional investigation?
-      A. That's my recollection, but this was some 
+      Mr. Simpson: That's my recollection, but this was some 
 years ago.  
-      Q. And you said you met one of his clients.  
+      Mr. Davis: And you said you met one of his clients.  
 Do you remember which client?
-      A. A former Kazakh politician whose name 
+      Mr. Simpson: A former Kazakh politician whose name 
 escapes me.  
-      Q. Do you remember when you met that client?
-      A. Years ago in London.  
-      Q. Has Mr. Akhmetshin ever been paid by 
+      Mr. Davis: Do you remember when you met that client?
+      Mr. Simpson: Years ago in London.  
+      Mr. Davis: Has Mr. Akhmetshin ever been paid by 
 Fusion GPS?
-      A. Not to my knowledge.  
-      Q. Has he ever provided information to Fusion 
+      Mr. Simpson: Not to my knowledge.  
+      Mr. Davis: Has he ever provided information to Fusion 
 GPS for use in your work?
-      A. I don't have a specific recollection of 
+      Mr. Simpson: I don't have a specific recollection of 
 him having done so.  I would hesitate to say so 
 categorically because I've been running this 
 business now for a number of years and I would have 
 interacted with him at various times and ways that 
 I probably don't remember, but not that I 
 specifically recall.  
-      Q. Has Mr. Akhmetshin ever paid Fusion GPS 
+      Mr. Davis: Has Mr. Akhmetshin ever paid Fusion GPS 
 for work?
-      A. Not to my knowledge.  
-      Q. You mentioned interacting with him in the 
+      Mr. Simpson: Not to my knowledge.  
+      Mr. Davis: You mentioned interacting with him in the 
 Prevezon matter.  What did you understand his role 
 to be in the Prevezon work?  
-      A. I did not have a clear understanding of 
+      Mr. Simpson: I did not have a clear understanding of 
 his role initially.  He started attending meetings 
 sometime in 2016, just a handful of things, and 
 it's -- you know what?  I don't recall anyone ever 
@@ -388,11 +382,10 @@ explanation, you know, of what he was doing.
       MR. SIMPSON:  The issues of the -- what do 
 you call it, HRAGI, the foundation and the 
 congressional stuff.  
-BY MR. DAVIS:
-      Q. You mentioned he started showing up at 
+      Mr. Davis: You mentioned he started showing up at 
 meetings in 2016.  Who else attended these 
 meetings?
-      A. I don't specifically remember.  I mean, Ed 
+      Mr. Simpson: I don't specifically remember.  I mean, Ed 
 Lieberman I think was at a meeting.  Again, I don't 
 think it was -- it wasn't a lot of meetings, just 
 one or two, but it was at Baker Hostetler.  
@@ -410,34 +403,33 @@ call it, the congressional stuff.
       MR. FOSTER:  Lobbying Congress?
       MR. SIMPSON:  I believe they registered to 
 lobby Congress.  
-BY MR. DAVIS:
-      Q. Did Fusion provide any of its research to 
+      Mr. Davis: Did Fusion provide any of its research to 
 Mr. Akhmetshin whether directly or through an 
 intermediary such as Baker Hostetler?  
-      A. Yes.  We were directed to do so by Baker 
+      Mr. Simpson: Yes.  We were directed to do so by Baker 
 Hostetler.  
-      Q. And do you know or have reason to believe 
+      Mr. Davis: And do you know or have reason to believe 
 whether Mr. Akhmetshin used that information when 
 he spoke with people on the Hill?
-      A. I have reason to believe that.  I don't 
+      Mr. Simpson: I have reason to believe that.  I don't 
 have specific knowledge of his discussions with 
 people on the Hill.  I don't remember.  He may have 
-told me what he did.  As I say, it was not the 
+told me what he did.  Mr. Simpson: I say, it was not the 
 focus of my work.  
-      Q. Has Mr. Akhmetshin ever said anything to 
+      Mr. Davis: Has Mr. Akhmetshin ever said anything to 
 you indicating or implying that he had worked with 
 the Russian government?
-      A. Well, I knew he had been a soldier, I knew 
+      Mr. Simpson: Well, I knew he had been a soldier, I knew 
 he had been in the Soviet military, and I also knew 
 that he went to Moscow a fair bit because he said 
 on several occasions I'm in Moscow or I'm going to 
 Moscow.  He may have -- I don't recall whether he 
 mentioned having worked with the Russian 
 government.  
-      Q. Has he ever said anything to you 
+      Mr. Davis: Has he ever said anything to you 
 indicating or implying that he had worked for 
 Russian intelligence more specifically?
-      A. Well, as I said, I'm sure that he had 
+      Mr. Simpson: Well, as I said, I'm sure that he had 
 mentioned to me maybe back in, you know, the time 
 when I was at the Wall Street Journal that he was 
 in the Soviet military and he had some kind of 
@@ -445,13 +437,13 @@ low-level intelligence position, but I don't
 remember anything beyond that.  He certainly didn't 
 say anything in recent years about having any 
 current connections with Russian intelligence.  
-      Q. Has he ever said anything to you 
+      Mr. Davis: Has he ever said anything to you 
 indicating or implying that he has contacts or 
 connections with Russian government officials?
-      A. Not that I specifically recall.  
-      Q. Do you have reason to believe that he has 
+      Mr. Simpson: Not that I specifically recall.  
+      Mr. Davis: Do you have reason to believe that he has 
 ties to the Russian government?
-      A. I have reason to wonder whether he has 
+      Mr. Simpson: I have reason to wonder whether he has 
 ties to the Russian government, but, you know, in 
 the course of my work for Baker Hostetler the 
 question of whether he had some connection to the 
@@ -461,34 +453,34 @@ meeting at Trump Tower and the allegations in the
 media that there's some relationship there I share 
 everyone's interest in the answer to that 
 question.  
-      Q. Do you know Natalia Veselnitskaya?
-      A. Yes.  
-      Q. When did you first interact with 
+      Mr. Davis: Do you know Natalia Veselnitskaya?
+      Mr. Simpson: Yes.  
+      Mr. Davis: When did you first interact with 
 Ms. Veselnitskaya?  
-      A. I believe it was sometime in 2014.  
-      Q. Has Fusion ever worked with 
+      Mr. Simpson: I believe it was sometime in 2014.  
+      Mr. Davis: Has Fusion ever worked with 
 Ms. Veselnitskaya?
-      A. Didn't I just answer that?  Yes.  I mean, 
+      Mr. Simpson: Didn't I just answer that?  Yes.  I mean, 
 she was the lawyer, the Russian lawyer who retained 
 Baker Hostetler who retained us.  So when you say 
 "worked with," I don't know that as a technical 
 meaning, but we interacted with her as part of the 
 Prevezon litigation.  
-      Q. Has Fusion ever been paid by her?
-      A. Well, she arranged -- as the lawyer for 
+      Mr. Davis: Has Fusion ever been paid by her?
+      Mr. Simpson: Well, she arranged -- as the lawyer for 
 Prevezon she would have arranged for Prevezon to 
 pay Baker Hostetler which paid us.  So if that's 
 what your question is, then the answer is yes, but 
 I mean, I don't think the money came from her.  It 
 came from Prevezon.  
-      Q. Were there any direct payments that didn't 
+      Mr. Davis: Were there any direct payments that didn't 
 go through Baker Hostetler?
-      A. No.  
-      Q. So what did you understand her role to be 
+      Mr. Simpson: No.  
+      Mr. Davis: So what did you understand her role to be 
 in the litigation?  You said she was the attorney 
 for Prevezon.  Was she managing the case for 
 Prevezon?
-      A. I was not introduced to her originally.  
+      Mr. Simpson: I was not introduced to her originally.  
 The original way that she was -- it came up in my 
 conversations with Mark Cymrot and other Baker 
 lawyers was as the person who had hired them who 
@@ -500,9 +492,9 @@ Baranovsky and very well versed in the events of
 the extortion.  So, you know, that's how I learned 
 of her and I think that's probably -- our first 
 interactions were probably about that subject.
-      Q. Did she provide Fusion with the 
+      Mr. Davis: Did she provide Fusion with the 
 information about that extortion case?
-      A. Well, I certainly discussed it with her at 
+      Mr. Simpson: Well, I certainly discussed it with her at 
 some point, but it was all in Russian.  You know, 
 the bulk of the Russian-English translating just 
 for, you know, chain of evidence reasons went from 
@@ -510,11 +502,11 @@ her to Baker Hostetler.  They would have materials
 analyzed and translated and then they would -- I 
 don't read a word of Russian.  So I would get the 
 certified translations of stuff from Baker.  
-      Q. And beyond your interactions with her 
+      Mr. Davis: And beyond your interactions with her 
 about the extortion issue, what type of interaction 
 did you have with her in the course of the Prevezon 
 work?
-      A. In the early period it was I believe 
+      Mr. Simpson: In the early period it was I believe 
 largely about this extortion case.  Later on when 
 we would appear in court it would -- you know, she 
 would come to some of the Court hearings and the 
@@ -523,30 +515,30 @@ testify were front and center, sort of the main
 issue for quite a while.  So I don't remember 
 specific conversations with her about that, but 
 that's what we would have discussed.  
-      Q. Have you met in person with her on other 
+      Mr. Davis: Have you met in person with her on other 
 occasions besides court hearings?
-      A. I attended a couple client dinners and I 
+      Mr. Simpson: I attended a couple client dinners and I 
 think that's about it.  
-      Q. Do you recall when and where those would 
+      Mr. Davis: Do you recall when and where those would 
 have been?
-      A. I recall some of the when and the where.  
+      Mr. Simpson: I recall some of the when and the where.  
 There were a couple of dinners in New York and a 
 couple of dinners in D.C.  I don't remember when 
 they started.  I think probably 2015.  And there 
 was some in 2016 in both cities.  
-      Q. Were any in June 2016?
-      A. Yes.  Two.  
-      Q. Were those in New York or in D.C.?
-      A. I believe that one was in New York and one 
+      Mr. Davis: Were any in June 2016?
+      Mr. Simpson: Yes.  Two.  
+      Mr. Davis: Were those in New York or in D.C.?
+      Mr. Simpson: I believe that one was in New York and one 
 was in D.C.
-      Q. Do you recall the specific date of either?
-      A. I didn't until we tried to piece these 
+      Mr. Davis: Do you recall the specific date of either?
+      Mr. Simpson: I didn't until we tried to piece these 
 things together, but June 8th I think was the 
 dinner in New York and I think the 10th was the 
 dinner in D.C., something like that.  
-      Q. And what were the purposes of these 
+      Mr. Davis: And what were the purposes of these 
 dinners?
-      A. Well, the first one was just an obligatory 
+      Mr. Simpson: Well, the first one was just an obligatory 
 client dinner which, you know, when you work on a 
 legal case you get invited to dinner with the 
 clients.  The one in D.C. was more of a social 
@@ -560,81 +552,81 @@ at the other end of the table from me and, you
 know, as I said, she doesn't really speak English 
 and I don't speak Russian.  So not a lot of 
 chit-chat.  
-      Q. Was it your understanding that the 
+      Mr. Davis: Was it your understanding that the 
 research you provided to Baker Hostetler would then 
 be passed on to Ms. Veselnitskaya?
-      A. To the extent that it was useful and 
+      Mr. Simpson: To the extent that it was useful and 
 interesting to her I'm sure they did, yes. 
-      Q. Has she ever said anything to you, 
+      Mr. Davis: Has she ever said anything to you, 
 presumably via a translator, indicating or implying 
 she had worked with the Russian government?
-      A. No, but Mark Cymrot told me when he told 
+      Mr. Simpson: No, but Mark Cymrot told me when he told 
 me of her existence that she was a former 
 prosecutor.  
-      Q. And has she ever said anything to you more 
+      Mr. Davis: And has she ever said anything to you more 
 specifically indicating or implying that she had 
 worked for Russian intelligence?
-      A. No.  
-      Q. Do you have any reasons to believe that 
+      Mr. Simpson: No.  
+      Mr. Davis: Do you have any reasons to believe that 
 Ms. Veselnitskaya has ties to the Russian 
 government?
-      A. I know what I've read in the newspaper.  
-      Q. Beyond that?
-      A. Beyond that my impression of her was of 
+      Mr. Simpson: I know what I've read in the newspaper.  
+      Mr. Davis: Beyond that?
+      Mr. Simpson: Beyond that my impression of her was of 
 someone who, you know, was a very smart and 
 ambitious lawyer, but not like a big political 
 player in the Kremlin.  Of course given to wonder 
 given all the recent events and disclosures that I 
 was unaware of whether my assessment of her was 
-right or wrong.  As we sit here today, the jury's 
+right or wrong.  Mr. Simpson: we sit here today, the jury's 
 kind of out.  I honestly can tell you all I knew is 
 she didn't seem to be a heavy hitter in the Kremlin 
 world.  
-      Q. This might be a little repetitive, but 
+      Mr. Davis: This might be a little repetitive, but 
 when did you first meet Ed Lieberman?
-      A. I don't remember specifically, but it was 
+      Mr. Simpson: I don't remember specifically, but it was 
 years ago.  
-      Q. I believe you described his business.  
+      Mr. Davis: I believe you described his business.  
 Have you ever worked with Mr. Lieberman?
-      A. I don't think so.  
-      Q. Or Fusion more broadly?  
-      A. Not that I can recall.  
-      Q. Have you ever paid him or been paid by 
+      Mr. Simpson: I don't think so.  
+      Mr. Davis: Or Fusion more broadly?  
+      Mr. Simpson: Not that I can recall.  
+      Mr. Davis: Have you ever paid him or been paid by 
 him?
-      A. No.  
-      Q. And what exactly did you understand his 
+      Mr. Simpson: No.  
+      Mr. Davis: And what exactly did you understand his 
 role to be in the Prevezon issue?
-      A. Well, the initial issue that we worked on 
+      Mr. Simpson: Well, the initial issue that we worked on 
 together was the issues about alleged tax evasion 
 by Hermitage Capital in Russia and William 
 Browder's decision to surrender his citizenship 
 shortly before the tax rules on surrendering your 
 citizenship changed, which tended to make us 
 suspect that it was motivated by tax 
-considerations.  At that time we didn't know about 
+considerations.  Mr. Simpson: that time we didn't know about 
 the offshore companies in BVI.  
-      Q. And what type of interactions did you have 
+      Mr. Davis: And what type of interactions did you have 
 with Mr. Lieberman in the course of the Prevezon 
 work?
-      A. Collegial, I guess professional I would 
+      Mr. Simpson: Collegial, I guess professional I would 
 say.  Ed's, you know, got a background in tax.  So 
 we talked about tax stuff.  Later on, much later on 
 after a couple years had gone by, you know, he and 
 Rinat embarked on this other project, but I don't 
 have a specific recollection of whether I dealt 
 with him directly on any of that.  
-      Q. Did Fusion provide its research to 
+      Mr. Davis: Did Fusion provide its research to 
 Mr. Lieberman either directly or through an 
 intermediary such as Baker Hostetler?
-      A. Not that I recall, but if the lawyers 
+      Mr. Simpson: Not that I recall, but if the lawyers 
 asked me to send them something, I would send them 
 something.  
-      Q. Do you have any reason to believe that 
+      Mr. Davis: Do you have any reason to believe that 
 Mr. Lieberman has ties to the Russian government?
-      A. No.  
-      Q. Do you know Mr. Robert Arakelian, 
+      Mr. Simpson: No.  
+      Mr. Davis: Do you know Mr. Robert Arakelian, 
 A-R-A-K-E-L-I-A-N?  
-      A. There was a guy at a lunch or dinner or 
+      Mr. Simpson: There was a guy at a lunch or dinner or 
 something named Robert and he was introduced to me 
 as Robert.  Again, when you're going to like these 
 client meals or things like that, you know, we 
@@ -643,97 +635,96 @@ just remember he was introduced as a friend Denis
 Katsyv, K-A-T-S-Y-V.  That's my recollection.  It 
 may be that he's a friend of Rinat's.  I don't 
 really know.  
-      Q. As far as you know, what is Mr. -- what is 
+      Mr. Davis: Mr. Simpson: far as you know, what is Mr. -- what is 
 Robert's business?
-      A. I don't know.  
-      Q. So presumably, then, has Fusion ever 
+      Mr. Simpson: I don't know.  
+      Mr. Davis: So presumably, then, has Fusion ever 
 worked with him?
-      A. Not to my knowledge.  
-      Q. What did you understand Mr. Arakelian's 
+      Mr. Simpson: Not to my knowledge.  
+      Mr. Davis: What did you understand Mr. Arakelian's 
 role to be in the Prevezon work?
-      A. I didn't know he had a role.  If someone 
+      Mr. Simpson: I didn't know he had a role.  If someone 
 told me I've forgotten, but, again, I was pretty 
 narrowly focused on a few things and he wasn't 
 involved in those things.  
-      Q. Were you aware that he was a registered 
+      Mr. Davis: Were you aware that he was a registered 
 lobbyist for HRAGI?
-      A. No.  
-      Q. Other than meeting him at that dinner, did 
+      Mr. Simpson: No.  
+      Mr. Davis: Other than meeting him at that dinner, did 
 you have any other interactions with him in the 
 course of the Prevezon work?
-      A. Not that I can recall.  
-      Q. Did Fusion provide any research to him 
+      Mr. Simpson: Not that I can recall.  
+      Mr. Davis: Did Fusion provide any research to him 
 directly or through an intermediary such as Baker 
 Hostetler?
-      A. I don't know.  I mean, if Baker Hostetler 
+      Mr. Simpson: I don't know.  I mean, if Baker Hostetler 
 gave him information from my research or my 
 company's research, they didn't tell me.  
-      Q. Do you have any reason to believe he has 
+      Mr. Davis: Do you have any reason to believe he has 
 ties to the Russian government?
-      A. No.  
-      Q. But you said he is friends with the 
+      Mr. Simpson: No.  
+      Mr. Davis: But you said he is friends with the 
 Katsyvs?
-      A. I shouldn't speculate.  I recall he was 
+      Mr. Simpson: I shouldn't speculate.  I recall he was 
 introduced to me as a friend of someone and I don't 
 remember whether it was Rinat or Denis Katsyv, but 
 it was one or the other.  
-      Q. Do you know Howard Schweitzer?  
-      A. I don't, not that I can recall.  
-      Q. So you've never done any business with 
+      Mr. Davis: Do you know Howard Schweitzer?  
+      Mr. Simpson: I don't, not that I can recall.  
+      Mr. Davis: So you've never done any business with 
 him; is that correct?
-      A. I don't think so.  
-      Q. Do you know if he had any role in the 
+      Mr. Simpson: I don't think so.  
+      Mr. Davis: Do you know if he had any role in the 
 Prevezon work?
-      A. I've read that his firm was involved in 
+      Mr. Simpson: I've read that his firm was involved in 
 the lobbying, but it's just something I read.  I 
 don't believe I had any personal interactions.  
-      Q. Do you know who Denis Katsyv is?
-      A. He's the owner of Prevezon.  
-      Q. Did you have any interactions with him?
-      A. Again, I sat in a few meetings, a couple 
+      Mr. Davis: Do you know who Denis Katsyv is?
+      Mr. Simpson: He's the owner of Prevezon.  
+      Mr. Davis: Did you have any interactions with him?
+      Mr. Simpson: Again, I sat in a few meetings, a couple 
 of client meals, but it was limited by his limited 
 English and my limited Russian.  
-      Q. In your interactions with 
+      Mr. Davis: In your interactions with 
 Ms. Veselnitskaya did she claim to be acting as the 
 attorney for Prevezon Holdings and the Katsyv 
 family or just for Prevezon Holdings?
-      A. She was introduced to me as the lawyer for 
+      Mr. Simpson: She was introduced to me as the lawyer for 
 Prevezon.  I never --
       MR. LEVY:  When you say "the Katsyv family," 
 Denis Katsyv is the only person named in the 
 lawsuit.  I'm just wondering what you mean by that.
       MR. DAVIS:  Denis or Pyotr.  
-      MR. SIMPSON:  As I said, she was introduced 
+      MR. SIMPSON:  Mr. Simpson: I said, she was introduced 
 to me as the lawyer for Prevezon.  So -- and I 
 think the lawyer for Denis.  So beyond that I 
 don't know.  
-BY MR. DAVIS:
-      Q. Do you know who Pyotr Katsyv is?
-      A. I do now.  I mean, I knew a little bit 
+      Mr. Davis: Do you know who Pyotr Katsyv is?
+      Mr. Simpson: I do now.  I mean, I knew a little bit 
 about him at the time, but now that it's become an 
 issue, at least in the mind of William Browder, 
 obviously I know who he is.  
-      Q. Did you have any interactions with him?
-      A. No.  
-      Q. Do you know Chris Cooper?
-      A. Yes.  
-      Q. How long have you known Mr. Cooper?
-      A. Probably ten years, maybe longer.  
-      Q. As far as you know, what is his 
+      Mr. Davis: Did you have any interactions with him?
+      Mr. Simpson: No.  
+      Mr. Davis: Do you know Chris Cooper?
+      Mr. Simpson: Yes.  
+      Mr. Davis: How long have you known Mr. Cooper?
+      Mr. Simpson: Probably ten years, maybe longer.  
+      Mr. Davis: Mr. Simpson: far as you know, what is his 
 business?  
-      A. Public relations.  
-      Q. Is he associated with the Potomac Square 
+      Mr. Simpson: Public relations.  
+      Mr. Davis: Is he associated with the Potomac Square 
 Group?  
-      A. I believe he is the Potomac Square Group.  
-      Q. Has Fusion ever worked with Mr. Cooper or 
+      Mr. Simpson: I believe he is the Potomac Square Group.  
+      Mr. Davis: Has Fusion ever worked with Mr. Cooper or 
 the Potomac Square Group?
-      A. Yes.  
-      Q. Have you paid him or been paid by him?
-      A. I believe we've paid him.  I don't know if 
+      Mr. Simpson: Yes.  
+      Mr. Davis: Have you paid him or been paid by him?
+      Mr. Simpson: I believe we've paid him.  I don't know if 
 he's paid us.  
-      Q. What did you understand his role to be in 
+      Mr. Davis: What did you understand his role to be in 
 the Prevezon work?
-      A. He worked on his movie doing -- 
+      Mr. Simpson: He worked on his movie doing -- 
 essentially as I understand it and recall it, he 
 was asked to help find a place where they could 
 show this movie.  William Browder likes to use the 
@@ -756,18 +747,18 @@ So Chris came up with the idea of showing it at the
 Newseum which is dedicated to the First Amendment 
 and where they don't have much time for libel 
 lawyers and people trying to suppress free speech
-      Q. And was the showing arranged for Prevezon, 
+      Mr. Davis: And was the showing arranged for Prevezon, 
 for HRAGI?  Who was arranging this?
-      A. I don't know.  
-      Q. Did Fusion have any role in that showing?
-      A. We supplied some names of people.  They 
+      Mr. Simpson: I don't know.  
+      Mr. Davis: Did Fusion have any role in that showing?
+      Mr. Simpson: We supplied some names of people.  They 
 wanted to round up people who would be interested 
 in coming, journalists, friends, people interested 
 in Russia, and we supplied names for them.  
-      Q. Did Fusion contact any journalists to 
+      Mr. Davis: Did Fusion contact any journalists to 
 inform them about the film or the showing or to 
 encourage them to write about it?
-      A. I believe that I mentioned it to some 
+      Mr. Simpson: I believe that I mentioned it to some 
 journalists in terms of showing up.  I don't 
 believe I -- I just don't remember whether I tried 
 to get anyone to write anything about it, but if I 
@@ -779,10 +770,10 @@ been on this, you know, multi-year effort to get
 him to answer questions about his activities in 
 Russia.  So it was the central issue in the 
 Prevezon case.  
-      Q. So you mentioned Mr. Cooper was involved 
+      Mr. Davis: So you mentioned Mr. Cooper was involved 
 in establishing this screening.  Do you know how he 
 came to be hired by Prevezon or HRAGI or whoever?
-      A. I know a little.  As I was saying earlier, 
+      Mr. Simpson: I know a little.  As I was saying earlier, 
 I've known Chris from Wall Street Journal days and 
 I refer business to him.  I know this doesn't fit 
 with the Browder theory of the case, but I don't do 
@@ -798,46 +789,46 @@ recommended as a trial PR guy.  From there I don't
 have a clear sense of how he ended up working on 
 the movie, but it wouldn't be surprising if they 
 had his name from the previous referral.  
-      Q. Do you know who came up with the idea of 
+      Mr. Davis: Do you know who came up with the idea of 
 creating HRAGI?
-      A. I would be guessing.  I just don't 
+      Mr. Simpson: I would be guessing.  I just don't 
 remember.  Someone may have told me.  I don't 
 remember.  
-      Q. What kind of interaction did Fusion have 
+      Mr. Davis: What kind of interaction did Fusion have 
 directly or indirectly with HRAGI?
-      A. I remember hearing about it.  I remember 
+      Mr. Simpson: I remember hearing about it.  I remember 
 Rinat talking about it and maybe others.  We were 
 very peripheral to this stuff and I don't remember 
 if I had any specific interactions with it.  I 
 don't know if they had an office, I don't know if 
 they had a bank account.  I just don't know.  I do 
 know they registered to lobby.  
-      Q. Do you know Lanny Wiles, L-A-N-N-Y, 
+      Mr. Davis: Do you know Lanny Wiles, L-A-N-N-Y, 
 W-I-L-E-S?  
-      A. I know him a little bit.  I met him 
+      Mr. Simpson: I know him a little bit.  I met him 
 originally when I was a journalist.  He was 
 introduced to me as a well-connected Republican 
 consultant type and I bumped into him once or twice 
 over the years.  
-      Q. Has Fusion ever worked with him?
-      A. I don't think so, no.  
-      Q. What did you understand his role to be in 
+      Mr. Davis: Has Fusion ever worked with him?
+      Mr. Simpson: I don't think so, no.  
+      Mr. Davis: What did you understand his role to be in 
 the Prevezon-HRAGI work?
-      A. Again, my understanding of people's 
+      Mr. Simpson: Again, my understanding of people's 
 roles on -- he was involved in the lobbying.  He's 
 a lobbyist.  He was involved in the lobbying.  
 Beyond that I really couldn't say.  
-      Q. Did you have any involvement with him in 
+      Mr. Davis: Did you have any involvement with him in 
 the course of your work on the Prevezon?
-      A. I think we had lunch once.  
-      Q. Do you have any reason to believe that 
+      Mr. Simpson: I think we had lunch once.  
+      Mr. Davis: Do you have any reason to believe that 
 Mr. Wiles has ties to the Russian government?
-      A. No.  
-      Q. So as you mentioned, in 2016 people 
+      Mr. Simpson: No.  
+      Mr. Davis: So as you mentioned, in 2016 people 
 associated with HRAGI met and attempted to meet 
 with people in a number of congressional offices.  
 Were you aware of any of these meetings?
-      A. The meeting that I was aware of that I 
+      Mr. Simpson: The meeting that I was aware of that I 
 remember hearing about was a meeting that actually 
 didn't happen which was some meeting that Mark 
 Cymrot was supposed to have.  It's possible that he 
@@ -847,40 +838,40 @@ these people that we're discussing, but I don't
 specifically remember hearing about other meetings.  
 I was generally aware that there was stuff going on 
 on the Hill.  
-      Q. If I could refer back to Exhibit 2, the 
+      Mr. Davis: If I could refer back to Exhibit 2, the 
 partial privilege log.  The first page of that 
 document lists a 5/13/16 e-mail from Rinat 
 Akhmetshin to Mark Cymrot with the subject/ 
 description "Appointment with Cong. Hill."  Do you 
 believe that to be a reference Congressman French 
 Hill?
-      A. I don't know.  I believe it was a 
+      Mr. Simpson: I don't know.  I believe it was a 
 Congressman named Hill.  I don't know if it was a 
 Congressman named French Hill.  
-      Q. And do you recall any other mentions of 
+      Mr. Davis: And do you recall any other mentions of 
 meetings with any particular congressional offices 
 or committees?
-      A. I'm sure -- I'm sorry.  I believe I recall 
+      Mr. Simpson: I'm sure -- I'm sorry.  I believe I recall 
 Rinat telling me that he was talking to Paul 
 Behrends, B-E-H-R-E-N-D-S.  It was either Rinat or 
 Mark Cymrot or maybe both about some of these 
 issues, but, again, I don't have a great 
 recollection for the specifics.  
-      Q. Did Fusion have any role in these 
+      Mr. Davis: Did Fusion have any role in these 
 meetings?
-      A. I mean, I think we were asked for 
+      Mr. Simpson: I mean, I think we were asked for 
 information, and to the extent that the lawyers 
 wanted me to give somebody information I would hand 
 it over to them.  It's their information.  
-      Q. To the best of your knowledge, was that 
+      Mr. Davis: To the best of your knowledge, was that 
 information referenced in the meetings with 
 congressional staff members?
-      A. I don't know.  
-      Q. You mentioned you had dinner with 
+      Mr. Simpson: I don't know.  
+      Mr. Davis: You mentioned you had dinner with 
 Ms. Veselnitskaya on June 8th and 10th of 2016.  
 Were you generally aware of her trip to the United 
 States in June?
-      A. I was.  She had trouble getting a visa and 
+      Mr. Simpson: I was.  She had trouble getting a visa and 
 the lawyers -- there was some drama over whether 
 she could get a visa.  This would have been a 
 recurring issue in the case.  You know, our lawyers 
@@ -903,13 +894,13 @@ which was after the Court said he couldn't get out
 of the subpoena and he had to give testimony, he 
 then triggered a new delay in his testimony by 
 filing a disqualification motion.  
-      Q. And that hearing was on June 8th; is that 
+      Mr. Davis: And that hearing was on June 8th; is that 
 correct?
-      A. I believe it was June 9th.  
-      Q. Did you have any other information about 
+      Mr. Simpson: I believe it was June 9th.  
+      Mr. Davis: Did you have any other information about 
 Ms. Veselnitskaya's itinerary or intended 
 activities on this trip?
-      A. No.  I mean, I can tell you what I knew.  
+      Mr. Simpson: No.  I mean, I can tell you what I knew.  
 I knew she was coming in I guess on the 8th.  I 
 don't have a clear recollection of the dinner, but 
 I know -- I believe we had a dinner.  The problem 
@@ -921,63 +912,63 @@ but, as I say, she speaks Russian and I speak
 English.  I think she was with Anatoli and she left 
 afterwards.  I know she didn't tell me any other 
 plans she had.  
-      Q. So you had dinner the 8th, saw her in 
+      Mr. Davis: So you had dinner the 8th, saw her in 
 court on the 9th; is that correct?  
-      A. Yes.  
-      Q. And dinner again on the 10th?
-      A. In D.C.
-      Q. Did you see her any other time?
-      A. Not that I recall.  
-      Q. Did Fusion play any role assisting 
+      Mr. Simpson: Yes.  
+      Mr. Davis: And dinner again on the 10th?
+      Mr. Simpson: In D.C.
+      Mr. Davis: Did you see her any other time?
+      Mr. Simpson: Not that I recall.  
+      Mr. Davis: Did Fusion play any role assisting 
 Ms. Veselnitskaya during that trip?  
-      A. Not that I recall.  
-      Q. It has widely been reported 
+      Mr. Simpson: Not that I recall.  
+      Mr. Davis: It has widely been reported 
 Ms. Veselnitskaya and Mr. Akhmetshin and others met 
 with Donald Trump, Junior, Paul Manafort, and Jared 
 Kushner on June 9th, 2016.  Were you aware of this 
 meeting beforehand?
-      A. No.  
-      Q. It didn't come up at the dinner the night 
+      Mr. Simpson: No.  
+      Mr. Davis: It didn't come up at the dinner the night 
 before?  
-      A. No.  
-      Q. When did you first become aware of the 
+      Mr. Simpson: No.  
+      Mr. Davis: When did you first become aware of the 
 meeting?  
-      A. Around the time it broke in the New York 
+      Mr. Simpson: Around the time it broke in the New York 
 Times.  I was stunned.  
-      Q. Is it correct that that means it wasn't 
+      Mr. Davis: Is it correct that that means it wasn't 
 discussed at the dinner on the 10th?
-      A. No, but, again, you know, the dinner on 
+      Mr. Simpson: No, but, again, you know, the dinner on 
 the 10th was I was at one end of the table talking 
 to a woman about her biography on Simon Bolivar and 
 she was at the other end with Rinat and she doesn't 
 really speak much English.  So, you know, 
 fortunately I was not going to do a lot of 
 entertaining.  
-      Q. I should clarify, discussed with you.
-      A. Yeah.  So if she discussed with somebody 
+      Mr. Davis: I should clarify, discussed with you.
+      Mr. Simpson: Yeah.  So if she discussed with somebody 
 else, I wouldn't --
-      Q. Right.
+      Mr. Davis: Right.
       Do you have any knowledge of the purpose of 
 the meeting other than what you read in the media?
-      A. No.  No.  Well, I mean, I read she wanted 
+      Mr. Simpson: No.  No.  Well, I mean, I read she wanted 
 to give them some information and I wondered 
 whether it was information from the Prevezon case 
 and I've seen speculation to that effect, but I 
 don't have any knowledge.  
-      Q. If we had the specifics of the 
+      Mr. Davis: If we had the specifics of the 
 information, would you be able to clarify whether 
 it had come from Fusion?
-      A. I think so.  If it's, you know, stuff I 
+      Mr. Simpson: I think so.  If it's, you know, stuff I 
 worked on I obviously will recognize it, yes.  
-      Q. As far as you know, how was this meeting 
+      Mr. Davis: Mr. Simpson: far as you know, how was this meeting 
 arranged or do you have any information beyond 
 what's in the public --
-      A. I don't.  
-      Q. Other than recent media reports, do you 
+      Mr. Simpson: I don't.  
+      Mr. Davis: Other than recent media reports, do you 
 have any reason to believe that the meeting was an 
 attempt by the Russian government to make contact 
 with the Trump campaign?
-      A. I mean, that's kind of an analytical 
+      Mr. Simpson: I mean, that's kind of an analytical 
 question.  I don't have any factual reason to 
 believe that.  I don't have possession of any 
 information about this that would allow me to say 
@@ -985,38 +976,38 @@ one way or the other.  You know, as a sort of
 question of counterintelligence and just general 
 investigation of Russian methods and that sort of 
 thing, I think that's a reasonable interpretation.  
-      Q. Have you had any communications about the 
+      Mr. Davis: Have you had any communications about the 
 meeting at any time with Rinat Akhmetshin?
-      A. No.  No.  
-      Q. Have you had any communications about the 
+      Mr. Simpson: No.  No.  
+      Mr. Davis: Have you had any communications about the 
 meeting, again, at any time with Ms. Veselnitskaya?
-      A. No.  
-      Q. Have you had any communications about the 
+      Mr. Simpson: No.  
+      Mr. Davis: Have you had any communications about the 
 meeting with anyone you worked with on the Prevezon 
 matter?
-      A. Probably.  I think we all exchanged mutual 
+      Mr. Simpson: Probably.  I think we all exchanged mutual 
 expressions of surprise.  I think I talked to Paul 
 Levine, a lawyer at Baker Hostetler.  I'm sure I 
 discussed it with Ed Baumgartner, Mark Cymrot.  You 
 know, if anyone knew about it they certainly didn't 
 confess it to me.  
-      Q. Do you know -- I'm going to butcher this 
+      Mr. Davis: Do you know -- I'm going to butcher this 
 name -- Irakle Kaveladze?  
-      A. I know who he is.  
-      Q. I'll spell it.  I-R-A-K-L-E, last name 
+      Mr. Simpson: I know who he is.  
+      Mr. Davis: I'll spell it.  I-R-A-K-L-E, last name 
 K-A-V-E-L-A-D-Z-E.  
-      A. No, I don't know.  
-      Q. Has Fusion ever worked with him?
-      A. No, not to my knowledge.  
-      Q. To the best of your knowledge, did he have 
+      Mr. Simpson: No, I don't know.  
+      Mr. Davis: Has Fusion ever worked with him?
+      Mr. Simpson: No, not to my knowledge.  
+      Mr. Davis: To the best of your knowledge, did he have 
 any role in the Prevezon or Magnitsky work?
-      A. My knowledge is primarily of the Prevezon 
+      Mr. Simpson: My knowledge is primarily of the Prevezon 
 case and, to my knowledge, he was not involved in 
 the Prevezon case in any way.  
-      Q. Do you have any reason to believe beyond 
+      Mr. Davis: Do you have any reason to believe beyond 
 public reporting that he has ties to the Russian 
 government?
-      A. I've been told by a source that -- 
+      Mr. Simpson: I've been told by a source that -- 
 actually, I was told by a source that there was 
 some reason to believe he had ties to the Russian 
 government, and he directed me to a newspaper 
@@ -1025,22 +1016,22 @@ on the West Coast named Boris Goldstein who has
 been linked historically to Soviet Russian 
 intelligence.  Beyond that I don't have any -- I 
 don't have any information.  
-      Q. And who was the source that told you that?
-      A. I'm not going to talk about my source.  
-      Q. I think you've already addressed this a 
+      Mr. Davis: And who was the source that told you that?
+      Mr. Simpson: I'm not going to talk about my source.  
+      Mr. Davis: I think you've already addressed this a 
 little bit, but do you know Anatoli Samochornov?  
 A-N-A-T-O-L-I, S-A-M-O-C-H-O-R-N-O-V.
-      A. I met him in connection with this case.  
+      Mr. Simpson: I met him in connection with this case.  
 We've never had any kind of social or other 
 relations beyond chatting in courthouses and that 
 sort of thing, sitting in restaurants waiting for a 
 hearing to start.  
-      Q. Has Fusion ever worked with him other than 
+      Mr. Davis: Has Fusion ever worked with him other than 
 on the Prevezon case?
-      A. No.  
-      Q. And to the best of your knowledge, what 
+      Mr. Simpson: No.  
+      Mr. Davis: And to the best of your knowledge, what 
 was his role in the Prevezon case?
-      A. As I understood it, he was recruited off 
+      Mr. Simpson: As I understood it, he was recruited off 
 the rack basically as a certified -- a translator 
 who had courtroom experience in New York who was 
 qualified to do sort of technical-legal type 
