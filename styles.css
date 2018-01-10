@@ -34,7 +34,16 @@ hr:after {
 }
 
 section {
-        margin-bottom: 2em;
+        margin-bottom: 1em;
+}
+
+footer {
+        margin-bottom: 1em;
+        text-align: center;
+}
+
+footer a {
+        margin: 0 0.5em;
 }
 
 bubble {
