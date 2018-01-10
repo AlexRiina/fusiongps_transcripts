@@ -51,14 +51,19 @@ bubble p:last-child {
 }
 
 bubble {
-        margin-left: 10%;
-        width: 90%;
         display: block;
         background-color: #00bcd4;
         background-color: #00bcd41f;
         padding: 10px;
         border-radius: 5px;
         margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+        bubble {
+                margin-left: 10%;
+                width: 90%;
+        }
 }
 
 bubble.interviewee {
