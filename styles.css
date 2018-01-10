@@ -74,3 +74,14 @@ author:after {
         margin-left: -4px;
         content: ':';
 }
+
+
+blockquote {
+        border-left: thick solid #00bcd4;
+        border-left: thick solid #00bcd440;
+        padding-left: 1em;
+}
+
+h1 {
+        margin-top: 0.2em;
+}
